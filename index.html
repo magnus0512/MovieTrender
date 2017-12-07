@@ -10,10 +10,11 @@
     <title>MovieTrender Project</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
     <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
-	<link rel="stylesheet" type="text/css" href="css/slick.css"/>
-
+    <link rel="stylesheet" type="text/css" href="css/slick.css"/>
     <link rel="stylesheet" href="styles.css" />
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>	
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
@@ -85,6 +86,22 @@
 				<p>Explore IMDB dataset and user reviews to look behind the scenes of cinematography.</p>
 			</blockquote>
 			
+			<div class="bxslider">
+  			<div><img src="images/roll.jpg" title="Funky roots"></div>
+ 			<div><img src="images/photo.jpg" title="The long and winding road"></div>
+  			<div><img src="images/roll.jpg" title="Happy trees"></div>
+			</div>
+				
+			<script>
+			$(function(){
+			  $('.bxslider').bxSlider({
+			    mode: 'fade',
+			    captions: true,
+			    slideWidth: 600
+			  });
+			});				
+			</script>
+							
 			<div class="plot-car">
 			    <div class="single-item">
 				<img src="images/roll.jpg" alt="">
