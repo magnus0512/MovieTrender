@@ -112,6 +112,16 @@
         </main>
     </div>
     <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+<script>
+$(document).ready(function(){
+  $('.img-car').slick({
+    dots: true,
+  customPaging: function(slick,index) {
+    var parties = ["Å", "DF", "Ø","C","LA","B","A","SF","V"];
+        return '<button>' + (parties[index]) + '</button>';
+    }
+  });
+});</script>
 </body>
 
 </html>
