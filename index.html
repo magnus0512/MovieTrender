@@ -15,8 +15,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>	
-
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<script>
+    $(document).ready(function(){
+      $('.slider').bxSlider();
+    });
+  </script>
 </head>
 
 <body>
@@ -86,6 +90,11 @@
 				<p>Explore IMDB dataset and user reviews to look behind the scenes of cinematography.</p>
 			</blockquote>
 			
+			<div class="slider">
+			   <div>I am a slide.</div>
+			   <div>I am another slide.</div>
+			</div>
+				
 			<div class="bxslider">
   			<div><img src="images/roll.jpg" title="Funky roots"></div>
  			<div><img src="images/photo.jpg" title="The long and winding road"></div>
