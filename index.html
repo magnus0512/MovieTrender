@@ -82,23 +82,35 @@
 			<blockquote>
 				<p>Explore IMDB dataset and user reviews to look behind the scenes of cinematography.</p>
 			</blockquote>
-			<h2>What do parties say with their #hashtags?</h2>
-                <div class="img-car">
-                    <div class="single-item">
-                        <img src="images/roll.jpg" alt="">
-                        <p>Alternativet's hashtags (top tfidf as sizes)</p>
-                    </div>
-                    <div class="single-item">
-                        <img src="images/roll.jpg" alt="">
-                        <p>Dansk Folkeparti's hashtags (top tfidf as sizes)</p>
-                    </div>
-                    <div class="single-item">
-                        <img src="images/roll.jpg" alt="">
-                        <p>Enhedslisten's hashtags (top tfidf as sizes)</p>
-                    </div>   
-                </div>
-                </section>
-            </div>
+			<div class="w3-content w3-display-container">
+  				<img class="mySlides" src="images/roll.jpg" style="width:100%">
+  				<img class="mySlides" src="images/roll.jpg" style="width:100%">
+ 				 <img class="mySlides" src="images/roll.jpg" style="width:100%">
+ 				 <img class="mySlides" src="images/roll.jpg" style="width:100%">
+
+ 				 <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+ 				 <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+			</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
  
             
             
@@ -112,16 +124,7 @@
         </main>
     </div>
     <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
-<script>
-$(document).ready(function(){
-  $('.img-car').slick({
-    dots: true,
-  customPaging: function(slick,index) {
-    var parties = ["Å", "DF", "Ø","C","LA","B","A","SF","V"];
-        return '<button>' + (parties[index]) + '</button>';
-    }
-  });
-});</script>
+
 </body>
 
 </html>
