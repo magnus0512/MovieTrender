@@ -43,7 +43,7 @@
                 <nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
                     <a class="mdl-navigation__link" href="http://nbviewer.jupyter.org/github/magnus0512/MovieTrender/blob/master/Explainer_Notebook.ipynb">Explainer Notebook</a>
                     <a class="mdl-navigation__link" href="https://github.com/magnus0512/MovieTrender/blob/master/Download.ipynb">Get Dataset</a>
-                    <a class="mdl-navigation__link" href="https://github.com/magnus0512/MovieTrender">Source Files</a>
+                    <a class="mdl-navigation__link" href="http://www.student.dtu.dk/~s153200/Sociale%20Grafer%20Data.zip">Source Files</a>
                 </nav>
             </div>
         <main class="content">
@@ -143,17 +143,22 @@
 			<h2><a aria-hidden="true" class="anchor" href="#pairs" id="actorpair"><span aria-hidden="true" class="octicon octicon-link"></span></a>Highest Income Pairs</h2>	    
 		    	After we have looked at our Graphs, we now want to find the pair of actors which lets movies make the most money. We looked at all pairs of actors and found the list of actors which are in the movies with the highests revenue together.
 		    	So if you ever want to make a lot of money from a movie, these are the pairs you need.
-			<p><img src="images/Bedste skuespillere.png" title="Highest Income Actors"></p>
+			<p><img src="images/Bedste skuespillere.PNG" title="Highest Income Actors"></p>
 			    
 		        <h2><a aria-hidden="true" class="anchor" href="#correlation" id="attricorrelation"><span aria-hidden="true" class="octicon octicon-link"></span></a>Attribute Correlation</h2>
 			<h3><a aria-hidden="true" class="anchor" href="#sentiment" id="sentiment"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sentiment</h3>	
-			
-		    	
-		   	<h3><a aria-hidden="true" class="anchor" href="#attributes" id="attributes"><span aria-hidden="true" class="octicon octicon-link"></span></a>Movie Attributes</h3>	
-
 
 		  	<h3><a aria-hidden="true" class="anchor" href="#pdcor" id="panda correlation"><span aria-hidden="true" class="octicon octicon-link"></span></a>Correlations</h3>	
+			The correlations is calculated using the Panda DataFrame. 
+			<p><img src="images/Correlation.PNG" title="Correlation Matrix"></p>
 
+			<p align="left">The outcome of the correlation-matrix for the movie attributes gave some interesting results.</p>
+			<p align="left">Firstly as earlier show in the scatter-plots the budget and income has high correlation with each other.
+			This also the case with the gross income, which isn't suprising considering it was calculated using both of them.
+			However the income ratio shows no correlation at all between any of the other attributes which is a surprise. </p>
+			<p align="left">The most interesting results came with the sentiment and user scores. The sentiment didn't have a correlation to
+			the income or budget of any movies but showed a correlation with the movie score which proves the hypothesis that people who like a movie more tends to write more sentimentality about it.
+			The user score in contrast to the sentiment showed smaller correlations with the revenue and gross income which tells us that the more people like a movie the more likely it is to make money.</p>
 
 			<h2><a aria-hidden="true" class="anchor" href="#Review-Analysis" id="text-analysis"><span aria-hidden="true" class="octicon octicon-link"></span></a>Text analysis</h2>
 			<h3><a aria-hidden="true" class="anchor" href="#word-clouds" id="WordClouds"><span aria-hidden="true" class="octicon octicon-link"></span></a>Word Clouds</h3>
