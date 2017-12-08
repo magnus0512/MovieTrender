@@ -1,0 +1,1 @@
+{"name": "Thea Sharrock", "gender": 1, "popularity": 0.015701, "imdb_id": "nm4824763", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": null, "homepage": null, "id": 1096867, "biography": "Thea Sharrock is a theatre director and made her feature film debut with \"Me Before You.\"", "adult": false}

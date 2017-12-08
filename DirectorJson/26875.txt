@@ -1,0 +1,1 @@
+{"name": "Hideo Nakata", "gender": 2, "popularity": 0.001014, "imdb_id": "nm0620378", "birthday": "1961-07-19", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/fQ3XJXTNpxzt6gMpMM0pJOyuibA.jpg", "id": 26875, "biography": "", "adult": false}

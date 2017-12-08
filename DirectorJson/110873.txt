@@ -1,0 +1,1 @@
+{"name": "Igor Kovalyov", "gender": 2, "popularity": 0.003468, "imdb_id": "nm0468335", "birthday": "1963-01-17", "also_known_as": [], "place_of_birth": "Kiev, USSR", "deathday": null, "profile_path": null, "homepage": null, "id": 110873, "biography": "", "adult": false}

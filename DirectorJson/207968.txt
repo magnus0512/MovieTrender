@@ -1,0 +1,1 @@
+{"name": "Daniel Krige", "gender": 0, "popularity": 0.001361, "imdb_id": "", "also_known_as": [], "profile_path": null, "id": 207968, "biography": "", "adult": false}

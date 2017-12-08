@@ -1,0 +1,1 @@
+{"name": "Ana Lily Amirpour", "gender": 1, "popularity": 3.8e-05, "imdb_id": "nm3235877", "birthday": "1980", "also_known_as": [], "deathday": null, "profile_path": "/fZJbVXJoD23VAAqN936QR0ToGHA.jpg", "homepage": null, "id": 1289604, "biography": "", "adult": false}

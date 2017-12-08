@@ -1,0 +1,1 @@
+{"name": "Erik Van Looy", "gender": 2, "popularity": 0.000309, "imdb_id": "nm0887452", "birthday": "1962-04-26", "also_known_as": ["Erik Ludovicus Maria Van Looy"], "place_of_birth": "Deurne, Belgium", "deathday": null, "profile_path": "/xwXnMeLZFSNk1ELtXNAuPWG1OzR.jpg", "homepage": null, "id": 82418, "biography": "", "adult": false}

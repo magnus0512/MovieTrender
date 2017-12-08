@@ -1,0 +1,1 @@
+{"name": "Yavuz Turgul", "gender": 2, "popularity": 0.044398, "imdb_id": "nm0877078", "birthday": "1946-04-05", "also_known_as": [], "deathday": null, "profile_path": null, "homepage": null, "id": 109445, "biography": "", "adult": false}

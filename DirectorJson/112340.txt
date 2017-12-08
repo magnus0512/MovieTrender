@@ -1,0 +1,1 @@
+{"name": "Ron Krauss", "gender": 2, "popularity": 0.4, "imdb_id": "nm0470323", "birthday": "1970-12-28", "also_known_as": [], "place_of_birth": "New York City, New York, USA", "deathday": null, "profile_path": null, "homepage": null, "id": 112340, "biography": "", "adult": false}

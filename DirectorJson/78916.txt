@@ -1,0 +1,1 @@
+{"name": "Farhan Akhtar", "gender": 2, "popularity": 0.008163, "imdb_id": "nm1027719", "birthday": "1974-01-09", "also_known_as": [], "profile_path": "/dOR2wQcdsAuOpPnmHUbaxagEZor.jpg", "id": 78916, "biography": "", "adult": false}

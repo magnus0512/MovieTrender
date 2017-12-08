@@ -1,0 +1,1 @@
+{"name": "Nelson Shin", "gender": 2, "popularity": 3.4e-05, "imdb_id": "nm0793802", "birthday": "1939-01-01", "also_known_as": ["\uc2e0\ub2a5\uade0"], "deathday": null, "profile_path": null, "homepage": null, "id": 19542, "biography": "", "adult": false}

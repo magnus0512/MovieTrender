@@ -1,0 +1,1 @@
+{"name": "Steve Martino", "gender": 2, "popularity": 0.51945, "imdb_id": "nm0553942", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/rrzPXZh0fj0QBkfWGOZdtb9Ppy1.jpg", "id": 71729, "biography": "", "adult": false}

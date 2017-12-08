@@ -1,0 +1,1 @@
+{"name": "David Palmer", "gender": 2, "popularity": 0.08064, "imdb_id": "nm3124542", "also_known_as": [], "profile_path": null, "id": 140372, "biography": "", "adult": false}

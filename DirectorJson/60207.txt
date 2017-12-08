@@ -1,0 +1,1 @@
+{"name": "Steve 'Spaz' Williams", "gender": 0, "popularity": 0.13104, "imdb_id": "nm0931730", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/zD0Qyhjjg87fDdEDJbqOFsSMtjm.jpg", "id": 60207, "biography": "", "adult": false}

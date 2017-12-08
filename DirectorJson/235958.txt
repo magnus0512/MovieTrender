@@ -1,0 +1,1 @@
+{"name": "Viktor Shamirov", "gender": 0, "popularity": 7.3e-05, "imdb_id": "nm1597722", "also_known_as": ["\u0412\u0438\u043a\u0442\u043e\u0440 \u0428\u0430\u043c\u0438\u0440\u043e\u0432"], "profile_path": "/qcNLlHhB9BMBOefyfDWCBf5UY1x.jpg", "id": 235958, "biography": "", "adult": false}

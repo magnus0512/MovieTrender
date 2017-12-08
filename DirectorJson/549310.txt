@@ -1,0 +1,1 @@
+{"name": "Justin Kurzel", "gender": 2, "popularity": 1.520939, "imdb_id": "nm2355933", "birthday": "1974-08-03", "also_known_as": [], "place_of_birth": "Gawler, South Australia", "deathday": null, "profile_path": "/ePSulCcXgR0waHM29ctg8634I1b.jpg", "homepage": null, "id": 549310, "biography": "", "adult": false}

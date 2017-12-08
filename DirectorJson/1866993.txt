@@ -1,0 +1,1 @@
+{"name": "Bob Guccione", "gender": 0, "popularity": 0.000122, "imdb_id": "", "also_known_as": [], "profile_path": null, "id": 1866993, "biography": "", "adult": false}

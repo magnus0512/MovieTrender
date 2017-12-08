@@ -1,0 +1,1 @@
+{"name": "Sam Miller", "gender": 2, "popularity": 0.176107, "imdb_id": "nm0589284", "birthday": "1962-09-28", "also_known_as": [], "place_of_birth": "Saxmundham - Suffolk - England", "deathday": null, "profile_path": "/4d8TvENmraAu4Z6a51T2Qw8tRYn.jpg", "homepage": null, "id": 134156, "biography": "Sam Miller is an actor and director.", "adult": false}

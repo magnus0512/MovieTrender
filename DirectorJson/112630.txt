@@ -1,0 +1,1 @@
+{"name": "Dean Wright", "gender": 2, "popularity": 0.000292, "imdb_id": "nm0942331", "also_known_as": [], "profile_path": null, "id": 112630, "biography": "", "adult": false}

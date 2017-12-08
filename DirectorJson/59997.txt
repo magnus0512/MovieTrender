@@ -1,0 +1,1 @@
+{"name": "Robert Longo", "gender": 2, "popularity": 0.001317, "imdb_id": "nm0519434", "birthday": "1953-01-07", "also_known_as": [], "place_of_birth": "Brooklyn, New York, USA", "deathday": null, "profile_path": "/erzaRdEKjBvhDjpBZ2LJr0Idmcm.jpg", "homepage": null, "id": 59997, "biography": "", "adult": false}

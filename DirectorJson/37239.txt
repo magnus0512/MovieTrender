@@ -1,0 +1,1 @@
+{"name": "Abbas Tyrewala", "gender": 0, "popularity": 0, "imdb_id": "nm1063072", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/zeylrivArzfXW2jpyS7EWFnnhCe.jpg", "id": 37239, "biography": "", "adult": false}

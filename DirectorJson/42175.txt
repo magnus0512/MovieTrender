@@ -1,0 +1,1 @@
+{"name": "Richard Stanley", "gender": 2, "popularity": 0.35324, "imdb_id": "nm0822582", "birthday": "1966-11-22", "also_known_as": [], "place_of_birth": "Fish Hoek, South Africa", "deathday": null, "profile_path": "/52gdvKA676KJ2gsAH4XHEOghZwH.jpg", "homepage": "http://www.everythingisundercontrol.org/nagtloper/", "id": 42175, "biography": "", "adult": false}

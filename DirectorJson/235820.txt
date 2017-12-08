@@ -1,0 +1,1 @@
+{"name": "Christopher Spencer", "gender": 0, "popularity": 0.001569, "imdb_id": "nm0817895", "also_known_as": [], "profile_path": null, "id": 235820, "biography": "", "adult": false}

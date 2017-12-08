@@ -1,0 +1,1 @@
+{"name": "James Sbardellati", "gender": 0, "popularity": 7e-06, "imdb_id": "nm0768618", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 86194, "biography": "", "adult": false}

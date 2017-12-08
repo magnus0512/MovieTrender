@@ -1,0 +1,1 @@
+{"name": "Dennis Gansel", "gender": 2, "popularity": 2.073869, "imdb_id": "nm0304541", "birthday": "1973-10-04", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/ak21eoJx8goGPPct6IdJqTTN9fi.jpg", "id": 52961, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Samuel Bayer", "gender": 2, "popularity": 0.032887, "imdb_id": "nm1207904", "birthday": "1965-02-17", "also_known_as": [], "deathday": null, "profile_path": "/cZmM450OogsiyTgU99nlzFtW6Y5.jpg", "homepage": null, "id": 20031, "biography": "", "adult": false}

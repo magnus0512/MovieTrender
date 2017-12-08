@@ -1,0 +1,1 @@
+{"name": "Ricardo de Montreuil", "gender": 2, "popularity": 0.32928, "imdb_id": "nm1662693", "also_known_as": [], "profile_path": null, "id": 132364, "biography": "", "adult": false}

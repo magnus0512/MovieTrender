@@ -1,0 +1,1 @@
+{"name": "Ba\u015far Sabuncu", "gender": 0, "popularity": 0.021168, "imdb_id": "nm0754952", "also_known_as": [], "profile_path": null, "id": 1380023, "biography": "", "adult": false}

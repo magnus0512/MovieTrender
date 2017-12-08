@@ -1,0 +1,1 @@
+{"name": "Amma Asante", "gender": 1, "popularity": 4e-06, "imdb_id": "nm1392994", "birthday": "1969-09-13", "also_known_as": [], "place_of_birth": "Lambeth, London, England, UK", "deathday": null, "profile_path": "/uG9m8jQHTQXDV6HSeFnbo4f7C9z.jpg", "homepage": "http://www.ammaasante.com/", "id": 1193597, "biography": "", "adult": false}

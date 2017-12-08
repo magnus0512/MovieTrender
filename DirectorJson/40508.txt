@@ -1,0 +1,1 @@
+{"name": "James Cox", "gender": 2, "popularity": 0.023051, "imdb_id": "nm0185063", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/fy5dBdSTjasTllcUU1yUIFZYpHC.jpg", "id": 40508, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Joshua Michael Stern", "gender": 2, "popularity": 0.616957, "imdb_id": "nm0827750", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/asACKiJSAZzhF7sDO1fFXlpyCG9.jpg", "homepage": null, "id": 64139, "biography": "", "adult": false}

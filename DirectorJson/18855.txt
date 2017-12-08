@@ -1,0 +1,1 @@
+{"name": "Ralph S. Singleton", "gender": 2, "popularity": 0.4, "imdb_id": "nm0802326", "birthday": "1940-03-22", "also_known_as": [], "profile_path": null, "id": 18855, "biography": "", "adult": false}

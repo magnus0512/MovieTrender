@@ -1,0 +1,1 @@
+{"name": "Asger Leth", "gender": 0, "popularity": 0.571012, "imdb_id": "nm1300606", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/4BKzNUobREK7Wv7LYsUzdKvN9mC.jpg", "id": 72344, "biography": "", "adult": false}

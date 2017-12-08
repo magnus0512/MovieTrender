@@ -1,0 +1,1 @@
+{"name": "James Manera", "gender": 0, "popularity": 0.000583, "imdb_id": "nm2690726", "also_known_as": [], "profile_path": null, "id": 1343882, "biography": "", "adult": false}

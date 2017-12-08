@@ -1,0 +1,1 @@
+{"name": "Declan Donnellan", "gender": 2, "popularity": 1e-06, "imdb_id": "nm3077950", "birthday": "1953", "also_known_as": [], "place_of_birth": "Manchester, Lancashire, England, UK", "deathday": null, "profile_path": "/A7G4CLPglPaCmxLq6zGXbCg0qls.jpg", "homepage": null, "id": 933263, "biography": "", "adult": false}

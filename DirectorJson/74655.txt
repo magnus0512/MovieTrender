@@ -1,0 +1,1 @@
+{"name": "Jeremy Saulnier", "gender": 0, "popularity": 0.15855, "imdb_id": "nm1099918", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/FEFiK62CQ6bTGk0FH3CXbn6oZk.jpg", "id": 74655, "biography": "", "adult": false}

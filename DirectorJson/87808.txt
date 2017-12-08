@@ -1,0 +1,1 @@
+{"name": "Scott S. Anderson", "gender": 2, "popularity": 0.4, "imdb_id": "nm1430257", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "homepage": null, "id": 87808, "biography": "", "adult": false}

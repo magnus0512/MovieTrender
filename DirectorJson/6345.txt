@@ -1,0 +1,1 @@
+{"name": "Edward Lachman", "gender": 2, "popularity": 0.118109, "imdb_id": "nm0005767", "birthday": "1948-03-31", "also_known_as": ["Ed Lachman"], "deathday": null, "profile_path": "/yXhB83p1aRpJzd3qKke6uBYescB.jpg", "homepage": null, "id": 6345, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Greg Coolidge", "gender": 2, "popularity": 0.0128, "imdb_id": "nm0177637", "birthday": "1972-12-28", "also_known_as": [], "place_of_birth": "Redbank, New Jersey, USA", "deathday": null, "profile_path": "/rx5TQ5c0CdA8KqcVpdHEolccmPF.jpg", "homepage": null, "id": 47364, "biography": "", "adult": false}

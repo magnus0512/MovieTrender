@@ -1,0 +1,1 @@
+{"name": "Anand Tucker", "gender": 2, "popularity": 1.1e-05, "imdb_id": "nm0875793", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/sdtzoy0UEFOsu9ZWFT5N5matqn7.jpg", "id": 26481, "biography": "", "adult": false}

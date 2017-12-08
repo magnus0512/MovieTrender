@@ -1,0 +1,1 @@
+{"name": "Tate Taylor", "gender": 2, "popularity": 0.002112, "imdb_id": "nm0853238", "birthday": "1969-06-03", "also_known_as": [], "place_of_birth": "Jackson, Mississippi USA", "deathday": null, "profile_path": "/g4WWwIWfD3GWMXc6Pwfvh99s6gP.jpg", "homepage": null, "id": 55789, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Andrew Douglas", "gender": 2, "popularity": 0.000137, "imdb_id": "nm1497918", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 62721, "biography": "", "adult": false}

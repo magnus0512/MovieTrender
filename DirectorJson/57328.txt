@@ -1,0 +1,1 @@
+{"name": "Barry W. Blaustein", "gender": 2, "popularity": 0.055363, "imdb_id": "nm0087904", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/gxV95QsO45TyPSFw9wnfk9U8L79.jpg", "id": 57328, "biography": "", "adult": false}

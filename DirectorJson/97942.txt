@@ -1,0 +1,1 @@
+{"name": "Jonathan Teplitzky", "gender": 0, "popularity": 0.00047, "imdb_id": "nm0855300", "also_known_as": [], "profile_path": "/mkvXjucr6iRAB4w9zVt5veoEQln.jpg", "id": 97942, "biography": "", "adult": false}

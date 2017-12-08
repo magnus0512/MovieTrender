@@ -1,0 +1,1 @@
+{"name": "Etan Cohen", "gender": 0, "popularity": 1.029171, "imdb_id": "nm1000113", "birthday": "1974", "also_known_as": ["Ethan Cohen"], "place_of_birth": "Jerusalem, Israel", "deathday": null, "profile_path": "/x4OA0VvljTVemWDqRyYtCHL0Ipl.jpg", "homepage": null, "id": 52803, "biography": "", "adult": false}

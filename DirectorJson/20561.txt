@@ -1,0 +1,1 @@
+{"name": "James Gray", "gender": 2, "popularity": 0.160124, "imdb_id": "nm0336695", "birthday": "1969-04-14", "also_known_as": [], "place_of_birth": "New York, New York, USA", "deathday": null, "profile_path": "/26NM43boSYspJiKeRc0gy41g9sA.jpg", "homepage": null, "id": 20561, "biography": "James Gray (born 1969) is an American film director and screenwriter.", "adult": false}

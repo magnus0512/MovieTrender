@@ -1,0 +1,1 @@
+{"name": "Lenny Abrahamson", "gender": 2, "popularity": 0.001364, "imdb_id": "nm1049433", "birthday": "1966-11-30", "also_known_as": ["Leonard Abrahamson", "Lanny Abrahamson"], "place_of_birth": "Dublin, Ireland", "deathday": null, "profile_path": "/xl1oS6RS2y4J90C4AMuJvqjcye1.jpg", "homepage": null, "id": 83281, "biography": "", "adult": false}

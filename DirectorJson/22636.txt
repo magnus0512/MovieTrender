@@ -1,0 +1,1 @@
+{"name": "James Yukich", "gender": 2, "popularity": 0.074592, "imdb_id": "nm0950819", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "homepage": null, "id": 22636, "biography": "", "adult": false}

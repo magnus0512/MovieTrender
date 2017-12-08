@@ -1,0 +1,1 @@
+{"name": "Andrew Gurland", "gender": 2, "popularity": 0.000119, "imdb_id": "nm0348640", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/z7pFpylMlHvFyMTGSqEoG5hJ5rJ.jpg", "id": 120247, "biography": "", "adult": false}

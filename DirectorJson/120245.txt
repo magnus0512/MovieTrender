@@ -1,0 +1,1 @@
+{"name": "Daniel Stamm", "gender": 0, "popularity": 0.00297, "imdb_id": "nm0821844", "birthday": "1976-04-20", "also_known_as": [], "place_of_birth": "Hamburg, Germany", "deathday": null, "profile_path": "/piJtIhtENjbkUygTeihBYqQImup.jpg", "homepage": null, "id": 120245, "biography": "", "adult": false}

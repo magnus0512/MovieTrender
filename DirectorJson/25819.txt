@@ -1,0 +1,1 @@
+{"name": "Michele Placido", "gender": 2, "popularity": 2.497425, "imdb_id": "nm0686375", "birthday": "1946-05-19", "also_known_as": ["Mike Placido"], "place_of_birth": "Ascoli Satriano, Puglia, Italy", "deathday": null, "profile_path": "/j8krw9CE6VYP9BSiS86lQPMb8DM.jpg", "homepage": null, "id": 25819, "biography": "", "adult": false}

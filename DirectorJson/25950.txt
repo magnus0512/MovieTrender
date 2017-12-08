@@ -1,0 +1,1 @@
+{"name": "Jean-Paul Rappeneau", "gender": 2, "popularity": 8e-05, "imdb_id": "nm0710919", "birthday": "1932-04-08", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/qkSwIu4p6OnQwReNYjBQgOEqfY0.jpg", "homepage": null, "id": 25950, "biography": "", "adult": false}

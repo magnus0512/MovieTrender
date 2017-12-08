@@ -1,0 +1,1 @@
+{"name": "Mort Nathan", "gender": 2, "popularity": 0.034202, "imdb_id": "nm0622240", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 57962, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Michael Gottlieb", "gender": 2, "popularity": 0.0008, "imdb_id": "nm0331998", "birthday": "1945-04-12", "also_known_as": ["Alan Smithee"], "place_of_birth": null, "deathday": "2014-05-23", "profile_path": null, "homepage": null, "id": 62043, "biography": "", "adult": false}

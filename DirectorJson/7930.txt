@@ -1,0 +1,1 @@
+{"name": "Jan Pinkava", "gender": 2, "popularity": 0.004704, "imdb_id": "nm0684342", "birthday": "1963-06-21", "also_known_as": [], "profile_path": "/rzQqU5P6NJie92Ltc5iJPtGsuPa.jpg", "id": 7930, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Patricia Riggen", "gender": 0, "popularity": 1e-06, "imdb_id": "nm0726638", "birthday": "1970-06-02", "also_known_as": [], "profile_path": "/hJ1cq0ejgiFb4qEOX3YOY819ksY.jpg", "id": 437833, "biography": "", "adult": false}

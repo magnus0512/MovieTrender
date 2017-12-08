@@ -1,0 +1,1 @@
+{"name": "Christian Ditter", "gender": 2, "popularity": 0.004854, "imdb_id": "nm0228542", "birthday": "1977", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/6BlluRiLFnfsOGHLSwpGMEYGKvV.jpg", "homepage": null, "id": 63820, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Mic Rodgers", "gender": 2, "popularity": 0.197568, "imdb_id": "nm0734747", "birthday": "1954", "also_known_as": [], "deathday": null, "profile_path": "/i2aoSvkQAyPAfwQpD7fJtGWRw2r.jpg", "homepage": null, "id": 18889, "biography": "", "adult": false}

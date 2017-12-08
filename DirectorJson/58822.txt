@@ -1,0 +1,1 @@
+{"name": "Danny Steinmann", "gender": 2, "popularity": 0.050651, "imdb_id": "nm0826164", "birthday": "1942-01-07", "also_known_as": [], "place_of_birth": "New York, New York", "deathday": "2012-12-18", "profile_path": null, "homepage": null, "id": 58822, "biography": "", "adult": false}

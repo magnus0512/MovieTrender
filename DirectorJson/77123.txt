@@ -1,0 +1,1 @@
+{"name": "Gonzalo L\u00f3pez-Gallego", "gender": 2, "popularity": 0.14112, "imdb_id": "nm1018426", "also_known_as": [], "place_of_birth": "Madrid, Spain", "deathday": null, "profile_path": "/2C0IA635PgBHctQd60RJdROuJ1j.jpg", "homepage": null, "id": 77123, "biography": "", "adult": false}

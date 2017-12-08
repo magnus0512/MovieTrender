@@ -1,0 +1,1 @@
+{"name": "Keenen Ivory Wayans", "gender": 2, "popularity": 1.060672, "imdb_id": "nm0005540", "birthday": "1958-06-08", "also_known_as": [], "place_of_birth": "New York City, New York, USA", "deathday": null, "profile_path": "/4uCVzk6JrNflrqWyzkPhLuwZzoC.jpg", "homepage": null, "id": 35689, "biography": "Keenen Ivory Wayans was born on June 8, 1958 in", "adult": false}

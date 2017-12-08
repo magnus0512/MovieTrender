@@ -1,0 +1,1 @@
+{"name": "Norman Thaddeus Vane", "gender": 0, "popularity": 0.002722, "imdb_id": "nm0888993", "also_known_as": [], "profile_path": null, "id": 98469, "biography": "", "adult": false}

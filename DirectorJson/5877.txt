@@ -1,0 +1,1 @@
+{"name": "Vincenzo Natali", "gender": 2, "popularity": 1e-06, "imdb_id": "nm0622112", "birthday": "1969-01-06", "also_known_as": [], "deathday": null, "profile_path": "/4rdmLwBRQKs1gpjEfrTxabOUerv.jpg", "homepage": null, "id": 5877, "biography": "", "adult": false}

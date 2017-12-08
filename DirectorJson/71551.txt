@@ -1,0 +1,1 @@
+{"name": "Lorene Scafaria", "gender": 1, "popularity": 0.017392, "imdb_id": "nm1032521", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/oyCNPihT154DgcmD81dNd1JnfkV.jpg", "id": 71551, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Billy Dickson", "gender": 2, "popularity": 0.00047, "imdb_id": "nm0225621", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "homepage": null, "id": 67578, "biography": "", "adult": true}

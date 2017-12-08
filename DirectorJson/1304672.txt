@@ -1,0 +1,1 @@
+{"name": "K\u0131van\u00e7 Baru\u00f6n\u00fc", "gender": 0, "popularity": 0.4, "imdb_id": "nm1738966", "also_known_as": ["Kivanc Baruonu\t", "Kivan\u00e7 Baru\u00f6n\u00fc "], "profile_path": null, "id": 1304672, "biography": "", "adult": false}

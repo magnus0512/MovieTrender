@@ -1,0 +1,1 @@
+{"name": "Olatunde Osunsanmi", "gender": 0, "popularity": 0.255106, "imdb_id": "nm1069989", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/8Hg3t3VLGXzovwO0TiTW4n61fR9.jpg", "id": 62369, "biography": "", "adult": false}

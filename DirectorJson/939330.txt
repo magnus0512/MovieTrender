@@ -1,0 +1,1 @@
+{"name": "Chu Yen-ping", "gender": 0, "popularity": 0.004082, "imdb_id": "nm0160900", "birthday": null, "also_known_as": ["Kevin Chu Yen-Ping", "Kevin Chu", "Yen-Ping Chu", "\u6731\u5ef6\u5e73", "Chu Yen Ping"], "deathday": null, "profile_path": "/pqaXplZlIIPfnNzMU03hF1yO6TV.jpg", "homepage": null, "id": 939330, "biography": "", "adult": false}

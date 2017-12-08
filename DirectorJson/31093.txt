@@ -1,0 +1,1 @@
+{"name": "Yvette Kaplan", "gender": 0, "popularity": 0.4, "imdb_id": "nm0438394", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/9JO51TbEGtTj09vYi9aN43DomFl.jpg", "id": 31093, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "David Chase", "gender": 2, "popularity": 0.030575, "imdb_id": "nm0153740", "birthday": "1945-08-22", "also_known_as": [], "profile_path": null, "id": 99898, "biography": "", "adult": false}

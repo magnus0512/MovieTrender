@@ -1,0 +1,1 @@
+{"name": "David Salle", "gender": 2, "popularity": 0.001361, "imdb_id": "nm0758541", "also_known_as": [], "profile_path": null, "id": 1151553, "biography": "", "adult": false}

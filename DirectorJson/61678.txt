@@ -1,0 +1,1 @@
+{"name": "David Michener", "gender": 2, "popularity": 0.008255, "imdb_id": "nm0585150", "birthday": null, "also_known_as": ["Dave Michener"], "place_of_birth": null, "deathday": null, "profile_path": "/1Sgz4iH3f7KTPAgZw8fubJX8wJA.jpg", "homepage": null, "id": 61678, "biography": "Norwegian-born writer who worked for the Disney Studios.", "adult": false}

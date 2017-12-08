@@ -1,0 +1,1 @@
+{"name": "Lee Sternthal", "gender": 0, "popularity": 9e-06, "imdb_id": "nm1600872", "also_known_as": [], "profile_path": "/668FyfP28cGPkAt9AlEum81JQ2p.jpg", "id": 929917, "biography": "", "adult": false}

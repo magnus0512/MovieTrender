@@ -1,0 +1,1 @@
+{"name": "Patrick Hughes", "gender": 2, "popularity": 0.299999, "imdb_id": "nm1449018", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/rV0KCoEApr6Zijt3NA3S5LIIvEm.jpg", "homepage": null, "id": 143059, "biography": "", "adult": false}

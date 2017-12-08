@@ -1,0 +1,1 @@
+{"name": "Dan Bradley", "gender": 2, "popularity": 0.611691, "imdb_id": "nm0103187", "also_known_as": [], "profile_path": null, "id": 8684, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Norman Mailer", "gender": 2, "popularity": 0.007223, "imdb_id": "", "birthday": "1923-01-31", "also_known_as": [], "deathday": "2007-11-10", "profile_path": "/m35HzjfGleHYTRbVuAi8o4JSzEu.jpg", "homepage": null, "id": 143280, "biography": "", "adult": false}

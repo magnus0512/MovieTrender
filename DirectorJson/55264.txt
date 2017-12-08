@@ -1,0 +1,1 @@
+{"name": "Jerrold Freedman", "gender": 2, "popularity": 0.015304, "imdb_id": "nm0293197", "birthday": "1941-10-29", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "homepage": null, "id": 55264, "biography": "", "adult": false}

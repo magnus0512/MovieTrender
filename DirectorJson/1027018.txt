@@ -1,0 +1,1 @@
+{"name": "Jane Lipsitz", "gender": 1, "popularity": 0.004536, "imdb_id": "nm0513769", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": null, "homepage": null, "id": 1027018, "biography": "", "adult": false}

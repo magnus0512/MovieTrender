@@ -1,0 +1,1 @@
+{"name": "Jalmari Helander", "gender": 2, "popularity": 0.000908, "imdb_id": "nm1118351", "birthday": "1976-07-21", "also_known_as": [], "place_of_birth": "Helsinki, Finland", "deathday": null, "profile_path": null, "homepage": null, "id": 145228, "biography": "", "adult": false}

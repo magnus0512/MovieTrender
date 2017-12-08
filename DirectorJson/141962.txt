@@ -1,0 +1,1 @@
+{"name": "David Bruckner", "gender": 2, "popularity": 3.6e-05, "imdb_id": "nm1410159", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/ogcp72B4ry8Rtbj8trpsplHBz7W.jpg", "homepage": null, "id": 141962, "biography": "David Bruckner is a writer and director, known for V/H/S (2012), The Signal (2007) and SiREN (2016).", "adult": false}

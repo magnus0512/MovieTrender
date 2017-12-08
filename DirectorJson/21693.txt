@@ -1,0 +1,1 @@
+{"name": "Motonori Sakakibara", "gender": 0, "popularity": 0.00315, "imdb_id": "nm1012102", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/7bStVvJFRCL17G2MTlCHoLHraKJ.jpg", "homepage": null, "id": 21693, "biography": "", "adult": false}

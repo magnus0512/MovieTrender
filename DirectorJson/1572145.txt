@@ -1,0 +1,1 @@
+{"name": "Stella Meghie", "gender": 0, "popularity": 0.8, "imdb_id": "", "also_known_as": [], "profile_path": null, "id": 1572145, "biography": "", "adult": false}

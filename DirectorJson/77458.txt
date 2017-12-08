@@ -1,0 +1,1 @@
+{"name": "David Von Ancken", "gender": 2, "popularity": 0.576196, "imdb_id": "nm1204568", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/ax9Tsk7OZObE4q8tB3BvppJY4Oj.jpg", "homepage": null, "id": 77458, "biography": "David Von Ancken is a director and producer.", "adult": false}

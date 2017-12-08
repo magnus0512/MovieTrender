@@ -1,0 +1,1 @@
+{"name": "Paul Bolger", "gender": 2, "popularity": 0.221276, "imdb_id": "nm0092959", "birthday": null, "also_known_as": ["Paul J. Bolger", "P\u00f3l \u00d3 Bolguidhir"], "deathday": null, "profile_path": null, "homepage": null, "id": 133293, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Steven Knight", "gender": 2, "popularity": 1.2932, "imdb_id": "nm1140275", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/6QiGHyAWJv5wSyWNUxZuMlBCXgy.jpg", "homepage": null, "id": 23227, "biography": "", "adult": false}

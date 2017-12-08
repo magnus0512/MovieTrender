@@ -1,0 +1,1 @@
+{"name": "Ken Scott", "gender": 0, "popularity": 0.002979, "imdb_id": "nm0779433", "birthday": "1970", "also_known_as": [], "place_of_birth": "Qu\u00e9bec - Canada", "deathday": null, "profile_path": "/uNY0ZGSH7GlLma3Q4BKmE9cvl5k.jpg", "homepage": null, "id": 1375201, "biography": "", "adult": false}

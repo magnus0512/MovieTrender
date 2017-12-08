@@ -1,0 +1,1 @@
+{"name": "Paolo Sorrentino", "gender": 2, "popularity": 0.025094, "imdb_id": "nm0815204", "birthday": "1970-05-31", "also_known_as": [], "place_of_birth": "Napoli (Italy)", "deathday": null, "profile_path": "/fY8hmcpS2UOXTFev6yHcvk9yIXi.jpg", "homepage": null, "id": 56194, "biography": "", "adult": false}

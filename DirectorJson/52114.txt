@@ -1,0 +1,1 @@
+{"name": "Jon Lucas", "gender": 2, "popularity": 0.006566, "imdb_id": "nm0524190", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 52114, "biography": "", "adult": false}

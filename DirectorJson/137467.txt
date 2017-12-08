@@ -1,0 +1,1 @@
+{"name": "Ben Wheatley", "gender": 2, "popularity": 0.004171, "imdb_id": "nm1296554", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/dhwp8mvrDxqDjgf2a7HcW5PrPVo.jpg", "homepage": null, "id": 137467, "biography": "Ben Wheatley (born 1972) Animator, Director of internet viral ads, TV idents, TV adverts TV comedy shows and feature films.", "adult": false}

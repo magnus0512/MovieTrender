@@ -1,0 +1,1 @@
+{"name": "Paul Brizzi", "gender": 0, "popularity": 0.156, "imdb_id": "nm0110294", "birthday": "1951-12-24", "also_known_as": [], "place_of_birth": "Paris, Ile-de-France, France", "deathday": null, "profile_path": null, "homepage": null, "id": 56147, "biography": "", "adult": false}

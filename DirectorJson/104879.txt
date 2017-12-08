@@ -1,0 +1,1 @@
+{"name": "Ram\u00f3n Men\u00e9ndez", "gender": 2, "popularity": 0.000237, "imdb_id": "nm0579466", "birthday": "1941", "also_known_as": [], "place_of_birth": "Asturias, Spain", "deathday": "2007", "profile_path": "/pKPvD6TpDkHgQMgaYPFnFcUNtN7.jpg", "homepage": null, "id": 104879, "biography": "Luis Ram\u00f3n Men\u00e9ndez Velasco was an actor.", "adult": false}

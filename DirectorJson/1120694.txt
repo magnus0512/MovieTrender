@@ -1,0 +1,1 @@
+{"name": "Jennifer Lee", "gender": 1, "popularity": 1.240437, "imdb_id": "nm1601644", "also_known_as": ["\uc81c\ub2c8\ud37c \ub9ac"], "profile_path": "/9BkQnsppXFWcNSRGo4GJ6QNq313.jpg", "id": 1120694, "biography": "", "adult": false}

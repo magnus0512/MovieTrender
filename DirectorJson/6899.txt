@@ -1,0 +1,1 @@
+{"name": "Steven Bernstein", "gender": 0, "popularity": 0.000959, "imdb_id": "nm0077149", "also_known_as": ["Steve Bernstein"], "profile_path": null, "id": 6899, "biography": "", "adult": false}

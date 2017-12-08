@@ -1,0 +1,1 @@
+{"name": "David Lowery", "gender": 2, "popularity": 0.56, "imdb_id": "nm1108007", "birthday": "1980-01-01", "also_known_as": [], "place_of_birth": "Wisconsin - USA", "deathday": null, "profile_path": "/soYt2uITKFDaWPBhe3fft6jNyav.jpg", "homepage": null, "id": 592493, "biography": "", "adult": false}

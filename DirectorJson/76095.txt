@@ -1,0 +1,1 @@
+{"name": "Jennifer Finnigan", "gender": 1, "popularity": 0.922822, "imdb_id": "nm0278304", "birthday": "1979-08-22", "also_known_as": [], "deathday": null, "profile_path": "/ybqybYvMIA5GwQUNbwaQBwSob2K.jpg", "id": 76095, "biography": "", "adult": false}

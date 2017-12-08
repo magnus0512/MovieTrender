@@ -1,0 +1,1 @@
+{"name": "Fede Alvarez", "gender": 2, "popularity": 0.550336, "imdb_id": "nm1793079", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/dFlExxHuo6hl3GbNM8gisSsGp9P.jpg", "homepage": null, "id": 932248, "biography": "", "adult": false}

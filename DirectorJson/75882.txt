@@ -1,0 +1,1 @@
+{"name": "S.R. Bindler", "gender": 0, "popularity": 0.001441, "imdb_id": "nm0082835", "birthday": "1970-02-14", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "homepage": null, "id": 75882, "biography": "", "adult": false}

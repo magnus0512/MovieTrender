@@ -1,0 +1,1 @@
+{"name": "Peter Sattler", "gender": 0, "popularity": 0.002227, "imdb_id": "nm0972104", "also_known_as": [], "profile_path": "/MBCBAoqZcqrUFqoJRSatktQf7a.jpg", "id": 1279781, "biography": "", "adult": false}

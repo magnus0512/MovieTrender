@@ -1,0 +1,1 @@
+{"name": "Bruce Hunt", "gender": 2, "popularity": 0, "imdb_id": "nm0402365", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/ukBXiD57R2e8s4tjVUBPzgeANqF.jpg", "homepage": null, "id": 44179, "biography": "", "adult": false}

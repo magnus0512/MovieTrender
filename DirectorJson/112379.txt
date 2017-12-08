@@ -1,0 +1,1 @@
+{"name": "Christian Vuissa", "gender": 2, "popularity": 0, "imdb_id": "nm1151613", "also_known_as": [], "profile_path": null, "id": 112379, "biography": "", "adult": false}

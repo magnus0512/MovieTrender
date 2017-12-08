@@ -1,0 +1,1 @@
+{"name": "Philipp St\u00f6lzl", "gender": 2, "popularity": 0.421576, "imdb_id": "nm0836715", "birthday": "1967", "also_known_as": [], "place_of_birth": "M\u00fcnchen, Germany", "deathday": null, "profile_path": "/4hBbcmU63MMJAuZrQglKSQXHgcH.jpg", "homepage": null, "id": 113500, "biography": "", "adult": false}

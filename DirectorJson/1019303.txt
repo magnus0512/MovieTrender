@@ -1,0 +1,1 @@
+{"name": "Duke Johnson", "gender": 2, "popularity": 0.161489, "imdb_id": "nm2122478", "also_known_as": [], "profile_path": "/oaU2f9ya29pEfNT4BzJKvdepoSG.jpg", "id": 1019303, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Stephen S. Campanelli", "gender": 0, "popularity": 0.079128, "imdb_id": "nm0132120", "also_known_as": [], "profile_path": null, "id": 1377131, "biography": "", "adult": false}

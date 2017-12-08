@@ -1,0 +1,1 @@
+{"name": "Denise Di Novi", "gender": 1, "popularity": 0.153052, "imdb_id": "nm0224145", "birthday": null, "also_known_as": [" Denise DiNovi"], "deathday": null, "profile_path": "/2U7NbchfxJpZOwOWE5FVtQY7gBK.jpg", "homepage": null, "id": 1899, "biography": "", "adult": false}

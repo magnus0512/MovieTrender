@@ -1,0 +1,1 @@
+{"name": "Mennan Yapo", "gender": 0, "popularity": 4e-06, "imdb_id": "nm0946327", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 61087, "biography": "", "adult": false}

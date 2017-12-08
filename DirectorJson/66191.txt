@@ -1,0 +1,1 @@
+{"name": "Barry Cook", "gender": 2, "popularity": 0.000349, "imdb_id": "nm0176905", "also_known_as": [], "place_of_birth": "Nashville, Tennessee, USA", "deathday": null, "profile_path": "/j2SNU8S0RGxs9jWnm71GJRyOIc0.jpg", "homepage": null, "id": 66191, "biography": "", "adult": false}

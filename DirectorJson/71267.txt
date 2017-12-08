@@ -1,0 +1,1 @@
+{"name": "Kirk De Micco", "gender": 2, "popularity": 4.3e-05, "imdb_id": "nm0210320", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/kqknILDV0ZOIeFOZnA8zMQ8NxC5.jpg", "id": 71267, "biography": "", "adult": false}

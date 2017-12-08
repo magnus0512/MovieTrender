@@ -1,0 +1,1 @@
+{"name": "Will Speck", "gender": 2, "popularity": 0.015351, "imdb_id": "nm0817447", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/sJk2MHa0G6mndPrGKRBnTjNhU8w.jpg", "homepage": null, "id": 60923, "biography": "Will Speck is an American film director.", "adult": false}

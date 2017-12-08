@@ -1,0 +1,1 @@
+{"name": "Vicky Jenson", "gender": 1, "popularity": 0.149537, "imdb_id": "nm0421776", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/z9GhYY3huqa0t1nJNo0FIBBgngZ.jpg", "homepage": null, "id": 12058, "biography": "", "adult": false}

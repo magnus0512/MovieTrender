@@ -1,0 +1,1 @@
+{"name": "Yuri Kulakov", "gender": 0, "popularity": 0.00047, "imdb_id": "nm0474430", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 43535, "biography": "", "adult": false}

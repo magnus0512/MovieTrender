@@ -1,0 +1,1 @@
+{"name": "Katt Shea", "gender": 1, "popularity": 0.032819, "imdb_id": "nm0002240", "birthday": null, "also_known_as": [], "place_of_birth": " Detroit, Michigan, USA", "deathday": null, "profile_path": null, "homepage": null, "id": 102634, "biography": "", "adult": false}

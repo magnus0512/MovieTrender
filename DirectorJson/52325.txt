@@ -1,0 +1,1 @@
+{"name": "Allan A. Goldstein", "gender": 2, "popularity": 0.002855, "imdb_id": "nm0326161", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "homepage": null, "id": 52325, "biography": "", "adult": false}

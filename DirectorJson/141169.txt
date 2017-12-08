@@ -1,0 +1,1 @@
+{"name": "Sngmoo Lee", "gender": 2, "popularity": 0.12, "imdb_id": "nm2788363", "also_known_as": [], "profile_path": "/gLxG05ZLSzscO7HbusdPgd0Sv9g.jpg", "id": 141169, "biography": "", "adult": false}

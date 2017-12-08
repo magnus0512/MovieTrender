@@ -1,0 +1,1 @@
+{"name": "Ethan Maniquis", "gender": 0, "popularity": 0.008001, "imdb_id": "nm0542450", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/63ehvs9X6lb36mBP2zbS0m9IEpL.jpg", "id": 61847, "biography": "", "adult": false}

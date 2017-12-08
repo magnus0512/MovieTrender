@@ -1,0 +1,1 @@
+{"name": "Sean Ellis", "gender": 2, "popularity": 0.005419, "imdb_id": "nm1193346", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/aODTopWlu757mM7n163rTBmXRHX.jpg", "id": 32250, "biography": "", "adult": false}

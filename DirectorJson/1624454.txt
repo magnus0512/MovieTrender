@@ -1,0 +1,1 @@
+{"name": "Tay Teck Lock", "gender": 0, "popularity": 0.036, "imdb_id": "", "also_known_as": [], "profile_path": null, "id": 1624454, "biography": "", "adult": false}

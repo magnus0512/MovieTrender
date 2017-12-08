@@ -1,0 +1,1 @@
+{"name": "Tim Pope", "gender": 2, "popularity": 0.168, "imdb_id": "nm0691194", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "homepage": null, "id": 65602, "biography": "", "adult": false}

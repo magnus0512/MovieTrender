@@ -1,0 +1,1 @@
+{"name": "Josef Rusnak", "gender": 2, "popularity": 0.000754, "imdb_id": "nm0750857", "birthday": "1958-11-25", "also_known_as": [], "deathday": null, "profile_path": null, "homepage": null, "id": 15361, "biography": "", "adult": false}

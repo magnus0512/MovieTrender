@@ -1,0 +1,1 @@
+{"name": "Garth Davis", "gender": 2, "popularity": 0.009412, "imdb_id": "nm0204628", "birthday": null, "also_known_as": [], "place_of_birth": " Australia", "deathday": null, "profile_path": "/63OpIBqP0gLDA6BqGGCBa0PErlx.jpg", "homepage": null, "id": 1173102, "biography": "", "adult": false}

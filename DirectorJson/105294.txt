@@ -1,0 +1,1 @@
+{"name": "George Mendeluk", "gender": 2, "popularity": 0.002674, "imdb_id": "nm0578899", "birthday": "1948-03-20", "also_known_as": [], "profile_path": null, "id": 105294, "biography": "", "adult": false}

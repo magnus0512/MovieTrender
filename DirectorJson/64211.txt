@@ -1,0 +1,1 @@
+{"name": "Franck Khalfoun", "gender": 2, "popularity": 0.047816, "imdb_id": "nm0451076", "birthday": "1968-03-09", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/rpsNEkSyYfxwXdbwCH3Mms5a2E8.jpg", "homepage": null, "id": 64211, "biography": "", "adult": false}

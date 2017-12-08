@@ -1,0 +1,1 @@
+{"name": "Sam Taylor-Johnson", "gender": 1, "popularity": 0.100307, "imdb_id": "nm0853374", "birthday": "1967-03-04", "also_known_as": ["Sam Taylor-Wood"], "place_of_birth": "London, England, UK", "deathday": null, "profile_path": "/dwX7Tgg5VSAsx5CfCy0eEj98sFn.jpg", "homepage": null, "id": 1137903, "biography": "", "adult": false}

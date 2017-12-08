@@ -1,0 +1,1 @@
+{"name": "Anna Foerster", "gender": 1, "popularity": 0.000259, "imdb_id": "nm0283816", "birthday": null, "also_known_as": ["Anna J. Foerster "], "deathday": null, "profile_path": "/nZNzWyFZwZgsaPd9bFn6s4sNAfN.jpg", "homepage": null, "id": 402272, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Duncan Ward", "gender": 0, "popularity": 0.0016, "imdb_id": "nm1426355", "also_known_as": [], "profile_path": null, "id": 132572, "biography": "", "adult": false}

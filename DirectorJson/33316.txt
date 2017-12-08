@@ -1,0 +1,1 @@
+{"name": "David Nutter", "gender": 0, "popularity": 0.000185, "imdb_id": "nm0638354", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/2ii4ZXKtwaxL0b4wlp0NnbcLZSy.jpg", "id": 33316, "biography": "", "adult": false}

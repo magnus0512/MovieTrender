@@ -1,0 +1,1 @@
+{"name": "David Lowell Rich", "gender": 2, "popularity": 0.001555, "imdb_id": "nm0723629", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 40187, "biography": "", "adult": false}

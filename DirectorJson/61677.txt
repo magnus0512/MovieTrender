@@ -1,0 +1,1 @@
+{"name": "Burny Mattinson", "gender": 0, "popularity": 0.000574, "imdb_id": "nm0560329", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 61677, "biography": "", "adult": false}

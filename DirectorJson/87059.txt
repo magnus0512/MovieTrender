@@ -1,0 +1,1 @@
+{"name": "Galen T. Chu", "gender": 0, "popularity": 0.001722, "imdb_id": "nm1154886", "also_known_as": ["Galen Tan Chu"], "place_of_birth": null, "deathday": null, "profile_path": "/iAL7i4r1JttIUd20qHSmxzxFSU7.jpg", "id": 87059, "biography": "", "adult": false}

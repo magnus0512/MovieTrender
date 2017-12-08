@@ -1,0 +1,1 @@
+{"name": "Hendel Butoy", "gender": 0, "popularity": 0.44688, "imdb_id": "nm0125186", "birthday": null, "also_known_as": [], "place_of_birth": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil", "deathday": null, "profile_path": "/wevCYiF0D9MQx4PyAYAMtm5zjSl.jpg", "homepage": null, "id": 74297, "biography": "Former Disney animator/director who joined the studio in 1979.", "adult": false}

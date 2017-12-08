@@ -1,0 +1,1 @@
+{"name": "Richard Tanne", "gender": 2, "popularity": 1e-05, "imdb_id": "nm1973681", "birthday": "1985-02-04", "also_known_as": [], "place_of_birth": "Livingston, New Jersey, USA", "deathday": null, "profile_path": "/vTmQJQVGUTXVkneGNqvOphsWxlk.jpg", "homepage": null, "id": 237855, "biography": "", "adult": false}

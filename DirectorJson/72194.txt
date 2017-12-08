@@ -1,0 +1,1 @@
+{"name": "Haile Gerima", "gender": 2, "popularity": 8e-06, "imdb_id": "nm0314340", "birthday": "1946-03-04", "also_known_as": [], "place_of_birth": "Gondor, Ethiopia", "deathday": null, "profile_path": "/v3bSuX0Qn3ighvB0xcxMUTy9sY8.jpg", "homepage": null, "id": 72194, "biography": "", "adult": false}

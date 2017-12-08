@@ -1,0 +1,1 @@
+{"name": "DJ Pooh", "gender": 2, "popularity": 0.000138, "imdb_id": "nm0690770", "birthday": "1969-04-14", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/rdhmGM82GL5er2N2YmwRPVQxD9U.jpg", "homepage": null, "id": 65134, "biography": "DJ Pooh is an American record producer, rapper, screenwriter and film director.", "adult": false}

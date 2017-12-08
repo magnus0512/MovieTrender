@@ -1,0 +1,1 @@
+{"name": "Armand Mastroianni", "gender": 2, "popularity": 0.000139, "imdb_id": "nm0557857", "birthday": "1948-08-01", "also_known_as": [], "place_of_birth": "Brooklyn, New York, USA", "deathday": null, "profile_path": null, "homepage": null, "id": 128639, "biography": "", "adult": false}

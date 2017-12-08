@@ -1,0 +1,1 @@
+{"name": "John Swanbeck", "gender": 2, "popularity": 0.0108, "imdb_id": "nm0841647", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": null, "homepage": null, "id": 998589, "biography": "", "adult": false}

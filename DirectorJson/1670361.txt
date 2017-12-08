@@ -1,0 +1,1 @@
+{"name": "Catherine Owens", "gender": 0, "popularity": 0.12, "imdb_id": "", "also_known_as": [], "profile_path": null, "id": 1670361, "biography": "", "adult": false}

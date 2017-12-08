@@ -1,0 +1,1 @@
+{"name": "Pixote Hunt", "gender": 0, "popularity": 0.000343, "imdb_id": "nm0402563", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 74299, "biography": "", "adult": false}

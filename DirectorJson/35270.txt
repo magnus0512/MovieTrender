@@ -1,0 +1,1 @@
+{"name": "Eric Radomski", "gender": 2, "popularity": 2e-06, "imdb_id": "nm0705779", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 35270, "biography": "", "adult": false}

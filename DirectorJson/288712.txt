@@ -1,0 +1,1 @@
+{"name": "Kurt Hale", "gender": 2, "popularity": 0, "imdb_id": "nm1109378", "also_known_as": [], "profile_path": null, "id": 288712, "biography": "", "adult": false}

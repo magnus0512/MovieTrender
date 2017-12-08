@@ -1,0 +1,1 @@
+{"name": "Joe Pytka", "gender": 2, "popularity": 0, "imdb_id": "nm0701592", "birthday": "1938-11-04", "also_known_as": [], "place_of_birth": "Pittsburgh, Pennsylvania, USA", "deathday": null, "profile_path": "/c46Ah1KxlfC4W8mHVrGDsJ7dMPJ.jpg", "homepage": null, "id": 23677, "biography": "", "adult": false}

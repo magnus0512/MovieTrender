@@ -1,0 +1,1 @@
+{"name": "James Komack", "gender": 2, "popularity": 0.168, "imdb_id": "nm0464506", "birthday": "1924-08-03", "also_known_as": [], "deathday": "1997-12-24", "profile_path": null, "id": 16008, "biography": "", "adult": false}

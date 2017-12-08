@@ -1,0 +1,1 @@
+{"name": "John Bruno", "gender": 2, "popularity": 0.003734, "imdb_id": "nm0116497", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 58338, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Mike McCoy", "gender": 2, "popularity": 0.000336, "imdb_id": "nm0566788", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "homepage": null, "id": 90429, "biography": "", "adult": false}

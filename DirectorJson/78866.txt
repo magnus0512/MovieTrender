@@ -1,0 +1,1 @@
+{"name": "John H. Lee", "gender": 2, "popularity": 0.017426, "imdb_id": "nm0497565", "also_known_as": ["\uc774\uc7ac\ud55c"], "profile_path": "/rXcr8WcULPjSUxc4nR2f6XBj8mV.jpg", "id": 78866, "biography": "", "adult": false}

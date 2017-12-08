@@ -1,0 +1,1 @@
+{"name": "Craig McCracken", "gender": 0, "popularity": 0.198836, "imdb_id": "nm0566833", "birthday": "1971-03-31", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "homepage": null, "id": 122967, "biography": "", "adult": false}

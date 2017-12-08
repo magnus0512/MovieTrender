@@ -1,0 +1,1 @@
+{"name": "Andy Wilson", "gender": 2, "popularity": 0.000354, "imdb_id": "nm0933002", "birthday": "1958-05-01", "also_known_as": [], "place_of_birth": "London - England - UK", "deathday": null, "profile_path": null, "homepage": null, "id": 28487, "biography": "", "adult": false}

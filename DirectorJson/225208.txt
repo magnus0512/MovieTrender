@@ -1,0 +1,1 @@
+{"name": "Keith Bearden", "gender": 2, "popularity": 0, "imdb_id": "nm1836963", "also_known_as": [], "place_of_birth": "Connecticut, USA", "deathday": null, "profile_path": null, "homepage": null, "id": 225208, "biography": "", "adult": false}

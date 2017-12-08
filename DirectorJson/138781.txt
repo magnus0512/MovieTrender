@@ -1,0 +1,1 @@
+{"name": "Robert Eggers", "gender": 2, "popularity": 2.9e-05, "imdb_id": "nm3211470", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/7JMf8zmsFGcO8XtGy06eVPWnK61.jpg", "homepage": null, "id": 138781, "biography": "", "adult": false}

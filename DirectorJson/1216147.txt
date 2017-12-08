@@ -1,0 +1,1 @@
+{"name": "Anthony Hemingway", "gender": 0, "popularity": 0.002513, "imdb_id": "nm0376006", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/hQXmrbAyybOvEflrRX4uLAz9pIS.jpg", "homepage": null, "id": 1216147, "biography": "Anthony Hemingway is an assistant director and director.", "adult": false}

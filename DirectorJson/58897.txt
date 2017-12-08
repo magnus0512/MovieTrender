@@ -1,0 +1,1 @@
+{"name": "Sam Fell", "gender": 2, "popularity": 0.127466, "imdb_id": "nm0271402", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/29NFQubb9A5OrA9OyXhnX4eOfkv.jpg", "id": 58897, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Wesley Strick", "gender": 2, "popularity": 0.345771, "imdb_id": "nm0834338", "birthday": "1954-02-11", "also_known_as": [], "deathday": null, "profile_path": "/t4ggAaMWTYRtWyB1nz1BPJilujC.jpg", "homepage": null, "id": 17880, "biography": "", "adult": false}

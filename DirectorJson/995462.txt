@@ -1,0 +1,1 @@
+{"name": "Gregory Plotkin", "gender": 0, "popularity": 0.5668, "imdb_id": "nm0687427", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": null, "homepage": null, "id": 995462, "biography": "", "adult": false}

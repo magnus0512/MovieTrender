@@ -1,0 +1,1 @@
+{"name": "Nick Murphy ", "gender": 2, "popularity": 7e-05, "imdb_id": "nm1960322", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/LhmIqRVxHTXTfXZQBMwyWZegqk.jpg", "homepage": null, "id": 582918, "biography": "", "adult": false}

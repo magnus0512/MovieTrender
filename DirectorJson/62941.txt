@@ -1,0 +1,1 @@
+{"name": "John Hyams", "gender": 2, "popularity": 0.556, "imdb_id": "nm0404882", "birthday": "1869-07-06", "also_known_as": [], "place_of_birth": null, "deathday": "1940-12-09", "profile_path": null, "id": 62941, "biography": "", "adult": false}

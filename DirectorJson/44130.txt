@@ -1,0 +1,1 @@
+{"name": "Paul Lynch", "gender": 2, "popularity": 0.758976, "imdb_id": "nm0528420", "birthday": "1946-06-11", "also_known_as": [], "place_of_birth": "Liverpool, England, UK", "deathday": null, "profile_path": null, "homepage": null, "id": 44130, "biography": "", "adult": false}

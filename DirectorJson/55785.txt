@@ -1,0 +1,1 @@
+{"name": "Shunji Iwai", "gender": 2, "popularity": 0.557948, "imdb_id": "nm0412517", "birthday": "1963-01-24", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/tidlYgRReWLjzyvX9YmMVkUTmsM.jpg", "id": 55785, "biography": "", "adult": false}

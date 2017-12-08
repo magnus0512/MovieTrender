@@ -1,0 +1,1 @@
+{"name": "Tim Fywell", "gender": 0, "popularity": 0.875938, "imdb_id": "nm0299563", "birthday": "1951-10-03", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/jdZBmm9noJh37Ri1aXZyOzaGpAI.jpg", "id": 125544, "biography": "", "adult": false}

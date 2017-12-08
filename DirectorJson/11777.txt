@@ -1,0 +1,1 @@
+{"name": "Tommy Lee Wallace", "gender": 2, "popularity": 0.707869, "imdb_id": "nm0908890", "birthday": "1949-09-06", "also_known_as": ["Tommy Wallace", "Tom Wallace"], "place_of_birth": "Somerset, Kentucky, USA", "deathday": null, "profile_path": "/ujNZLV2M8FF97tQ6X7pHM1aa0VM.jpg", "homepage": null, "id": 11777, "biography": "", "adult": false}

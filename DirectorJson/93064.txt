@@ -1,0 +1,1 @@
+{"name": "Michael G. Bartlett", "gender": 0, "popularity": 0, "imdb_id": "nm2408930", "birthday": null, "also_known_as": ["Michael Bartlett"], "deathday": null, "profile_path": null, "homepage": null, "id": 93064, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Dewey Nicks", "gender": 0, "popularity": 0.336, "imdb_id": "nm0630083", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 113641, "biography": "", "adult": false}

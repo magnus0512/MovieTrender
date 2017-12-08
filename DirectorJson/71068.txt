@@ -1,0 +1,1 @@
+{"name": "Phyllida Lloyd", "gender": 1, "popularity": 0.006405, "imdb_id": "nm1630273", "birthday": "1957-06-17", "also_known_as": [], "place_of_birth": "Bristol, Avon, England, UK", "deathday": null, "profile_path": "/zO3LLlhtTVbkrjwtSHJ86tlnVCy.jpg", "homepage": null, "id": 71068, "biography": "", "adult": false}

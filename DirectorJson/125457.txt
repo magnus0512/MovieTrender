@@ -1,0 +1,1 @@
+{"name": "Tibor Hern\u00e1di", "gender": 0, "popularity": 0, "imdb_id": "nm0379797", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 125457, "biography": "", "adult": false}

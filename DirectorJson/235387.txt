@@ -1,0 +1,1 @@
+{"name": "Laurent Baffie", "gender": 2, "popularity": 0.000149, "imdb_id": "", "birthday": "1958-04-18", "also_known_as": [], "place_of_birth": "Montreuil-sous-Bois, Seine-Saint-Denis, \u00cele-de-France, France", "deathday": null, "profile_path": "/s00N0A9UIQYXduRbwYrqanzdVsy.jpg", "homepage": null, "id": 235387, "biography": "", "adult": false}

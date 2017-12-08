@@ -1,0 +1,1 @@
+{"name": "Elizabeth Allen Rosenbaum", "gender": 1, "popularity": 0.007832, "imdb_id": "nm0020491", "birthday": null, "also_known_as": ["Elizabeth Allen", "Liz Allen Rosenbaum", "Liz Allen"], "deathday": null, "profile_path": null, "homepage": null, "id": 1223175, "biography": "", "adult": false}

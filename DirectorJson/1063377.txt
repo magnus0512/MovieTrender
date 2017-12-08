@@ -1,0 +1,1 @@
+{"name": "Bryan Buckley", "gender": 0, "popularity": 0.56, "imdb_id": "nm1519252", "also_known_as": [], "profile_path": null, "id": 1063377, "biography": "", "adult": false}

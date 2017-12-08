@@ -1,0 +1,1 @@
+{"name": "Max Joseph", "gender": 2, "popularity": 0.000204, "imdb_id": "nm3273000", "birthday": "1982-01-16", "also_known_as": ["H. Maxwell Joseph"], "deathday": null, "profile_path": "/kwBSbD2sRn34chAKR9me05wDtbg.jpg", "homepage": null, "id": 1257827, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Steven R. Monroe", "gender": 2, "popularity": 0.296614, "imdb_id": "nm0003458", "birthday": "1964-09-15", "also_known_as": [], "place_of_birth": "New York, USA", "deathday": null, "profile_path": "/6CeSKA4OIbdPpkuX6SKYCH3RAnk.jpg", "homepage": null, "id": 88039, "biography": "", "adult": false}

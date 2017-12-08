@@ -1,0 +1,1 @@
+{"name": "Rick Bieber", "gender": 2, "popularity": 0.00104, "imdb_id": "nm0081279", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 71339, "biography": "", "adult": false}

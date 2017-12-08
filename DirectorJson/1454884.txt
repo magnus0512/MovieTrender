@@ -1,0 +1,1 @@
+{"name": "Cedric Nicolas-Troyan", "gender": 0, "popularity": 6e-06, "imdb_id": "nm1031639", "also_known_as": ["Cedric Gabriel Nicolas", "Cedric Nicolas", "Cedric G. Nicolas"], "profile_path": "/oY4uK0KikdZzhlo1ZI8ilw1qAIE.jpg", "id": 1454884, "biography": "", "adult": false}

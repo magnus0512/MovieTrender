@@ -1,0 +1,1 @@
+{"name": "Newt Arnold", "gender": 2, "popularity": 0.004825, "imdb_id": "nm0036582", "birthday": "1922-02-22", "also_known_as": ["Newton D. Arnold", "Newton Arnold"], "place_of_birth": "Palo Alto, California, USA", "deathday": "2000-02-12", "profile_path": null, "homepage": null, "id": 70250, "biography": "", "adult": false}

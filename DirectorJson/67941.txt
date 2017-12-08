@@ -1,0 +1,1 @@
+{"name": "Hatsuki Tsuji", "gender": 0, "popularity": 0, "imdb_id": "nm1022334", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 67941, "biography": "", "adult": false}

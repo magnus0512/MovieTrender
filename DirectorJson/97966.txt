@@ -1,0 +1,1 @@
+{"name": "John 'Bud' Cardos", "gender": 0, "popularity": 1e-06, "imdb_id": "nm0004616", "also_known_as": [], "profile_path": "/yji6UiMRYVd75WrA2oNVEWQ3WO4.jpg", "id": 97966, "biography": "", "adult": false}

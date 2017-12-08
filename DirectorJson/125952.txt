@@ -1,0 +1,1 @@
+{"name": "Andrei Kavun", "gender": 0, "popularity": 4e-06, "imdb_id": "nm1802196", "birthday": "1969-12-09", "also_known_as": ["Andrei Kavun", "\u0410\u043d\u0434\u0440\u0435\u0439 \u041a\u0430\u0432\u0443\u043d"], "place_of_birth": null, "deathday": null, "profile_path": "/s7FKmv4DwMrKdtfejZjM7x5tGWL.jpg", "homepage": null, "id": 125952, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Kinka Usher", "gender": 0, "popularity": 4.1e-05, "imdb_id": "nm0882330", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/hHCT5Rsg9wPYoVuLi2ipmrwlEbl.jpg", "id": 59646, "biography": "", "adult": false}

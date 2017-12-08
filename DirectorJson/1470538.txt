@@ -1,0 +1,1 @@
+{"name": "Michael Davis", "gender": 0, "popularity": 0.12, "imdb_id": "", "also_known_as": [], "profile_path": null, "id": 1470538, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Albert Magnoli", "gender": 0, "popularity": 0.016869, "imdb_id": "nm0536299", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/cA8hbVAGaitbHbxNWvZiaXJXQHi.jpg", "homepage": null, "id": 58729, "biography": "", "adult": false}

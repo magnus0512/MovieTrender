@@ -1,0 +1,1 @@
+{"name": "Paul Abascal", "gender": 2, "popularity": 0.536616, "imdb_id": "nm0007708", "birthday": "1958-09-13", "also_known_as": [], "place_of_birth": "Los Angeles, California, USA", "deathday": null, "profile_path": null, "homepage": null, "id": 1216735, "biography": "", "adult": false}

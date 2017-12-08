@@ -1,0 +1,1 @@
+{"name": "Jorge R. Gutierrez", "gender": 0, "popularity": 0.002975, "imdb_id": "nm1509613", "also_known_as": ["Jorge R. Guti\u00e9rrez"], "profile_path": "/d7XqfVtTo2A4A3u27aAhiSifmSR.jpg", "id": 1265056, "biography": "", "adult": false}

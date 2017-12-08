@@ -1,0 +1,1 @@
+{"name": "Huck Botko", "gender": 2, "popularity": 0.4, "imdb_id": "nm1428204", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": null, "id": 120246, "biography": "", "adult": false}
