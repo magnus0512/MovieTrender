@@ -72,48 +72,46 @@
 		    <section>
 			
 			<h2><a aria-hidden="true" class="anchor" href="#dataset" id="dataset"><span aria-hidden="true" class="octicon octicon-link"></span></a>Dataset</h2>
-			<h3><a aria-hidden="true" class="anchor" href="#getdata" id="getdata"><span aria-hidden="true" class="octicon octicon-link"></span></a>Get Data</h3>	
-			    <p align="left">We've decided to look at movie data. In regards to doing this, we started by looking at IMDB's data on movies. From them we downloaded a list of all their movies.
-				This summed up to a total of 4,5 million movies/TV shows/short/video etc, etc, etc.... Using regular expressions we removed everything we didn't want, so we only had Movies left.
-				This left us with a total of 300.000 different movies. Since IMDB only gave us titles, runtime and score, we needed to find more information in other places. So we went to https://www.themoviedb.org/.
-				They gave us everything we needed to make our analysis. From them we downloaded Json files on our movies, which also contained some specific information.
-				This left us with 4.500 movies. These are then the movies we worked with.</p>
-			<p align="left">We chose this data because we would like to work with movies and figure out different things and trends about the movie business. For example, which pair of actors make the movie with the highest scores,
-				or is there a correlation between a movies score and the money it makes.</p>
-			<p align="left">We envisioned that we at the end could have some data which could show users different trends in the movie business.
-				As a part of this, we also wanted to show users which different parameters is the best if you want to make money on your movie.</p>
+				<h3><a aria-hidden="true" class="anchor" href="#getdata" id="getdata"><span aria-hidden="true" class="octicon octicon-link"></span></a>Get Data</h3>	
+				    <p align="left">We've decided to look at movie data. In regards to doing this, we started by looking at IMDB's data on movies. From them we downloaded a list of all their movies.
+					This summed up to a total of 4,5 million movies/TV shows/short/video etc, etc, etc.... Using regular expressions we removed everything we didn't want, so we only had Movies left.
+					This left us with a total of 300.000 different movies. Since IMDB only gave us titles, runtime and score, we needed to find more information in other places. So we went to https://www.themoviedb.org/.
+					They gave us everything we needed to make our analysis. From them we downloaded Json files on our movies, which also contained some specific information.
+					This left us with 4.500 movies. These are then the movies we worked with.</p>
+				    <p align="left">We chose this data because we would like to work with movies and figure out different things and trends about the movie business. For example, which pair of actors make the movie with the highest scores,
+					or is there a correlation between a movies score and the money it makes.</p>
+				    <p align="left">We envisioned that we at the end could have some data which could show users different trends in the movie business.
+					As a part of this, we also wanted to show users which different parameters is the best if you want to make money on your movie.</p>
 
 
 			<h3><a aria-hidden="true" class="anchor" href="#cleandata" id="cleandata"><span aria-hidden="true" class="octicon octicon-link"></span></a>Clean Data</h3>	
 			<p align="left">We started with 4.500.000 lines of different IMDB content, which contained only 329.820 usable movies. From that we only got 4.398 actual movies we could use. This took some regular expression, and a lot of API calls to https://www.themoviedb.org/. They only allow 4 calls per second, so the process took some planning to make 329.820 calls, which took almost 23 hours before we could get down to our 8.460 movies. And from those only 4.398 movies contained all the data we wanted.
 			Afterwards we made a lot of data processing to get the right information in the right format and iterable in folders. It's possible to see everything in our Downloader Notebook.</p> <p align="left">In there it's possible to see our code which does :</p>
 			<ul class="level2">
+				<li>Select the right movies from all movies</li>
 				<li>Get Data from MovieDB</li>
-				<li><a href="#distru">Distrubtion</a></li>
-				<li><a href="#betweenC">Betweenness Centrality</a></li>
-				<li><a href="#communities">Communities</a></li>
+				<li>Get Reviews for all movies</li>
+				<li>Get Credits</li>
+				<li>Get all Actors from Credits</li>
+				<li>Get all directors from Credits</li>
+				<li>Actors in more than 1 movie</li>
+				<li>Actors in more than X movies</li>
+				<li>All Actor pairs</li>
+				<li>All Director and Actor Pair</li>
 			</ul>
-			    Select the right movies from all movies
-			
-			    
-			    
-			Get Data from MovieDB
-			Get Reviews for all movies
-			Get Credits
-			Get all Actors from Credits
-			Get all directors from Credits
-			Actors in more than 1 movie
-			Actors in more than X movies
-			All Actor pairs
-			All Director and Actor Pair
-			So after this has been ran, we ended up with :
-			4.398 movies and credits
-			51.137 Actors
-			15.085 Actors in more than 1 movie.
-			1.407 Actors in 10 or more movies.
-			2.021 Directors.
-			2.018 Pairs of Actor/Directors who have been in 2 or more movies together.
-			2.231 Pairs of Actor/Actor who have been in 3 or more movies together.
+			    <p align="left">So after this has been ran, we ended up with :</p>
+			<ul class="level2">
+				<li>4.398 movies and credits</li>
+				<li>51.137 Actors</li>
+				<li>15.085 Actors in more than 1 movie.</li>
+				<li>1.407 Actors in 10 or more movies.</li>
+				<li>2.021 Directors.</li>
+				<li>2.018 Pairs of Actor/Directors who have been in 2 or more movies together.</li>
+				<li>2.231 Pairs of Actor/Actor who have been in 3 or more movies together.</li>
+				<li>Actors in more than X movies</li>
+				<li>All Actor pairs</li>
+				<li>All Director and Actor Pair</li>
+			</ul>    
 			<p align="left">For the last two points, the lists of pairs, we decided that we wanted a minimum of movies people we in together. We did this because we didn't want one-hit wonders. For example if we didn't have a minimum on Director/Actor, the best pairs would have been the director of the highest grossing movie and everyone who only worked with him on that movie. In this case it would be James Cameron for Avatar, and whatever extra was in only this Avatar.</p>
 			<p align="left">For the rest of the data, we didn't make any limits after we got the 4.398 movies. So we can see every director in average makes a little over 2 movies, and each movie have in average have 11 actors.</p>
 			    
