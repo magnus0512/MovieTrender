@@ -1,0 +1,241 @@
+
+
+OK, make no mistake, this movie was made to convey a message. If criticised
+in terms of, say, similarity to "the Firm", or "yet another cyber
+thriller",
+then you really missed the point. The message is pretty blunt, and
+guaranteed to anger a certain large corporation. (This is not an
+anti-corporate movie, it is anti- a ~particular~ corporation, and if you
+can't guess which one, maybe you should go back to exploring the Kalahari
+or
+whatever you've been doing for the last ten years.) This corporation has
+been known to spend extraordinary resources on PR (including, for example,
+bribing journalists and college professors), so almost certainly some of
+the
+comments on this message board will be produced by that corporation and
+should be read in that light.
+
+Second, while murder is a bit over the top, pretty well all the other
+crimes
+committed by the large corporation in this movie are things of which the
+real corporation has been seriously accused, been found to be planning, or
+in some cases, convicted; yet in every case managing to escape with fines
+or
+compensation payments much smaller than the profits they made from the
+crime. That is why we hate them so much, and why this movie was made. It's
+also obvious why the motif of murder was added: some of the technical
+details of why their actions are pure evil are difficult for a non-techie
+to
+understand, so to make the movie accessible to a wider audience, they added
+a more blatant crime (plus pyrotechnic special effects, a tense chase
+scene,
+love interest, etc).
+
+Thirdly, it is not a futuristic movie, it is present day; nothing in this
+movie is more than about 1 or 2 years in the future, at most, and most of
+it
+is happening now or happened several years ago.
+
+Fourthly, technical realism: while some of the tech stuff is rubbish (hey,
+it's a movie!), the effort put into realism is dramatically good compared
+to
+information technology in any other movie I have ever seen. When we see
+IP's, they are actual IPs, but martian (I guess they don't want geeks going
+home and whois-ing them!), the code is all real code: some HTML, some C++,
+real scripting, but mostly VB (a language the certain large corporation is
+known to use a lot). The algorithms they discuss improving are even
+algorithms the product would really require! Not only that, the product is
+frighteningly similar to the large corporation's actual current development
+path!
+
+So, if you walked away from this movie thinking "just for geeks" or
+"totally
+unrealistic", you need to give yourself a good hard slap, wake up and see
+what is really going on in the world around you. This movie was about as
+unrealistic and irrelevant as "All the President's Men".
+
+Oh, by the way, I better say that all the above comments are only my
+personal opinions, in case they try to sue me, because they do do stuff
+like
+that.
+<|_=00=_|>
+
+When I first saw the preview for Anti-Trust, I thought 2 things.  1) It
+was
+a not-so-disguised movie about Microsoft. 2) It was probably "The Net 2."
+It looked like another computer-based movie that would be as realistic as
+"Hackers," but with a more obvious plot.  From the first 30 seconds of the
+preview you can pretty much tell that the open-source sidekick is marked
+for
+death and Bill Gates...I mean Gary Winston was a criminal mastermind who
+will do anything to get ahead in business.  I'd happy to say that while
+the
+first half of the movie went without any surprises, there are enough plot
+twists in the 2nd half to keep you guessing who's on who's side.  Tim
+Robbins and Ryan Philippe both give good performances, and nobody seems
+out
+of place talking about technology.  It's not the best movie I've seen this
+year, but it definately blew away my expectations.
+<|_=00=_|>
+This is one of the few movies about computers, programming and those
+that make it happen that actually demonstrates that at least a little
+research was done by the writer/s. Not only is the script filled with
+real technical lingo (IP addresses, LZ compression, etc), but it
+actually uses it all in the correct context. (For examples of correct
+lingo in incorrect usage, see films like 'Jurassic Park'). So in that
+sense at least, the writer did their job.
+
+Alas, in other areas they let the team down.
+
+I like the basic premise. Tim Robbins (Gary Winston) as an evil Bill
+Gates (Gary Winston = William Gates, GW=WG) is certainly an idea that
+appeals to me (as a an anti-Microsofter from way back). There are even
+a number of little in-jokes through the plot that pick out the
+Gates-Microsoft connection (the artwork screens in Winston's house, a
+character called Redmond, the Dept of Justice accusations, etc). And it
+was so nice to see so many computers on screen, and not one Windows
+window anywhere.
+
+Into all of this comes Ryan Phillipe as a hotshot programmer - who, as
+far as I can see, never actually programs anything. He stares at a lot
+of code on screens, and types in some pseudo-unix commands, but I can't
+recall him actually coding anything. As a geek he looks the part, and
+certainly has the introvert/social inept bit down pat. But even geeks
+have other emotions.
+
+And how the hell does a guy like him get a girl like Claire Forlani??
+Surely that must have sent alarm bells ringing for him early on? Yes,
+even allowing for the plot twist half way through, guys like him just
+don't get girls like her - because they're rarely out of the garage.
+
+Rachel Leigh Cook - stunning, and wasted. There was so much more scope
+for her in this. And the final twist with her character at the end just
+was not believable. 
+
+I'm glad to finally see a movie in which computers and computer
+programming are an essential device actually treat them with some
+accuracy. It's fantastic to have a fantasy in which an evil Bill Gates
+actually gets whats coming to him. 
+
+All it needed was a little more character injected into the three main
+young characters and it would have worked perfectly.
+<|_=00=_|>
+
+I really enjoyed this film--it was exciting as well as thought-provoking.
+If you enjoyed "The Net" and "The Firm" you'll probably enjoy a hybrid of
+the two, although I found "Antitrust" to be more satisfying than either of
+those.  Tim Robbins as always was terrific as the "Bill Gates" character
+and
+Ryan Phillippe was excellent as his genius protege.  "Antitrust" was a
+great, entertaining way to spend an afternoon at the movies.
+
+<|_=00=_|>
+
+I praise Hollywood for creating a movie that does not have mass appeal.
+Too
+often movies of this type are designed to be for too wide an audience and
+all credibility is lost.  This film avoids this, for the most part, by
+primarily appealing to a core target audience in the 15 to 35 age range.
+
+The credits sequence began and I immediately cringed and thought, "Hacker
+2...ugh." but it didn't turn out that way, much to my pleasure.  Horrible
+computer idiocy was kept to a minimum, and generally only used for
+dramatic
+effect rather than the "computerz r kewl" aspect.
+
+The dramatic performances were very good in my opinion and the film was
+superb in creating suspense.  The soundtrack is rather excellent as well.
+
+By my guess, huge changes were made to this film (based on the trailer)
+and
+I look forward to seeing an alternate version or cut-scenes on the
+DVD.
+
+I definitely recommend this movie for anyone who likes technology and
+computers.  For everyone else, I don't know if you would like it,
+honestly,
+but I can tell you it's not a whole movie about computers.
+
+
+<|_=00=_|>
+What kind of computer expert can I be that I had forgotten that I
+submitted a comment the first tiem that I watched "Antitrust" - yet I
+enjoyed it just as much the second time around. A great deal of trouble
+was taken to ensure that the Computer Programming was authentic and the
+planned Synapse system would ultimately be feasible - wonder if Ronald
+Reagan ever watched it ? i take back what I said about the Male Lead,
+he wasn't as wet as I first thought even though it only occurred to him
+almost too late that both the Females seemingly attracted to him were
+too hot to be true. And he hardly looked to be out of short pants. The
+script made it quite clear that the Villain was not Bill Gates but a
+potential competitor for him and Microsoft but the plot fell down over
+the idea of being able to spy on LCD monitors from a relevant angle and
+extract useful information off the screen (before having the owner
+murdered in appropriate style). I'll let new viewers work out the
+relevance of the Sesame seeds for themselves and the light pictures
+which seemed to reflect the wrong moods for the characters nearest to
+them - but a great idea for a potential LCD guard dog. But then have
+the Israelis been working on this ? All in all a far more enjoyable
+film than the previous reviewer suggested.
+<|_=00=_|>
+For once, a movie about computers where computers look real. The
+display on the monitors isn't just some 3D animation that seems to
+serve no purpose. You can recognize interfaces, or at least can imagine
+that on a real computer monitor. The code on screen looks real (it's
+either C++ or Java or some kind of C derivative), even though it
+probably doesn't do what they pretend it does; they don't show it long
+enough to figure out what it's suppose to do anyway.
+
+Just some things I noticed: All IPs are 10.x.x.x, which is a range
+reserved for local networks, it should not be accessible remotely, thus
+would not be usable for a global system such as Synapse. But that is
+probably done on purpose, just like they do for phone numbers in the
+movies, all starting in 555-XXXX.
+
+The networks seem to be freaking fast. In particular, for the data
+transmitted through the satellites with just about zero latency.
+
+The CD burner is quite fast, it can burn a CD in just 20 seconds.
+
+The server which Synapse is being distributed from seems to be very
+effective, taking millions of hits within hours. In particular,
+considering that they have never seen that many hits.
+
+Beside the technical details presented, good movie, good action, good
+plot twists.
+<|_=00=_|>
+
+I saw "Antitrust" today the 1:15 matinee. I loved it. I became acquainted
+with Tim Robbins through 5 copies of" Top Gun." I will not give away the
+plot or read the last page of the book, but for those of you who like
+"Arlington Road" ,"Antitrust" may be a good sequel. So this movie does not
+win rave reviews. Movies are entertaining , some of them are informative.
+This one says that without computer geeks not many of us could not enjoy
+this modern day tool. Back in the 70's I thought the electric typewriter
+with a ball going across the page was exciting.
+<|_=00=_|>
+
+I was genuinely surprised by how much I enjoyed this film.  Tim Robbins is
+excellent, as always.  His uncanny Bill Gates like character will leave
+true
+computer geeks rolling in the aisles.  Geeks will get the inside jokes of
+the film....but the script doesn't leave the computer illiterate hanging.
+I
+thought they did a good job of thoroughly explaining things to avoid
+confusion.  Ryan Phillipe did a pretty good job...as did Claire Forlani.
+I
+gave this movie a vote of 9...I can't wait for it to come out on
+DVD.
+<|_=00=_|>
+
+ I didn't expect much from AntiTrust, but I was surprised. The story was
+fast-paced and exciting, it never really slowed-down. When the movie was
+over I felt satisfied, it had a lot of what I look for in a movie. It
+requires you to think about what is happening, even if sometimes it gets
+un-realistic with plot twists.
+ Good things aside, AntiTrust had its share of problems. There was some
+techy-talk that went on too long, whenever something bad was discovered by
+Milo(Ryan however you spell his last name) the camera would zoom in and then
+shake around, and it got a little un-realistic in the finale.
+ All-in-all AntiTrust was good, but I just found-out it opened it 12th
+place. It deserves better.

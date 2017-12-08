@@ -1,0 +1,348 @@
+
+I have been looking forward to Blackhat for a couple of months now, and
+was able to see the movie on the am showing on it's first full day.
+What a thrill ride! Before I go into the details of why I loved this
+movie, I should point out where my perspective on a movie like this
+will be different than most, as reflected in some of the bad early
+reviews. 
+
+I have a Bachelors in Information Systems and a Masters in Information
+Security Assurance. I have worked in technology for 18 years now, the
+last 5 of that almost exclusively in the security end of the tech pool.
+Based upon my experience in the field and my recent exhaustive research
+into information security, I found the film to be a refreshing change
+from the typical rehashed Hollywood fantasy that is put out regarding
+anything with a computer chip installed. 
+
+The problem with how computers are depicted in most movie in television
+is that the capabilities of computers are completely overstated or just
+plain irrational. It is as if directors think technical hyperbole will
+make up for a lack of everyday viewer sophistication with computer
+science. I get that the majority of the population hasn't studied
+computers as a major and most know only as much as they need to to get
+online and send emails or watch Youtube. This is completely
+understandable. 
+
+However, with technology being so ubiquitous in today's world, I am a
+bit astounded at he flack a director gets when he attempts to use
+realistic computing in a movie. With all of the Androids, iOS devices,
+multiple computer households, and the increasing popularity of Linux
+operating systems, one would think that the average computer IQ of
+America was much higher than it was 20 years ago. 
+
+In reality, if computers are depicted in realistic terms in film, most
+people just wont get it. I blame this partly on shows like Star Trek
+and Star Wars (which I love, for what they are) that fantasize what
+computers may be like in 200 years. I also blame it on the epidemic of
+fantasy movies that seem to base nothing on reality but continue to
+rake in hundreds of millions of dollars from movie goers world wide. 
+
+At the end of the day, Michael Mann did a FANTASTIC job of depicting
+the real life of network engineers and computer scientists in this
+movie. Commands entered on screen followed conventional Unix command
+line format and were syntactically correct. You could tell Mann had
+done his research and hired true computing consultants in the writing
+of the script. 
+
+In addition, the attacks on the PLA systems that run the pumps used to
+cause the reactor meltdown and later planned for the mines was almost
+flawlessly realistic. That is in fact how those systems work and how
+attackers would compromise them across the Internet. Further, the types
+of attacks are entirely plausible given real world research conducted
+by the NSA, Department of Defense, Department of Energy, and others. In
+addition, passing malware through PDF files by email is one of the most
+prominent ways that attackers take over computers in the real world,
+but viewer comments indicate they believe this to be too silly to be
+believable. Well as a security analyst, I can tell you to believe that
+scenario happens millions of times every year But, because we didn't
+have excessive flashing lights and cartoonish villains with a master
+plan to take over the entire world, the movie gets panned. 
+
+The reviews for Blackhat remind me of those for Miami Vice. In each
+instance, extensive research was done into the worlds of the criminals
+that served as the basis for the lead characters. But too much realism
+tends to bring out the boo birds who would rather focus on comic book
+heros that shoot lighting out of their eyeballs or fly around in steel
+suits too impossibly heavy to be powered by anything short of a large
+nuclear reactor while fighting off giant skyscraper-sized space worms. 
+
+Perhaps audiences would rather have compete fantasy in their movies.
+Perhaps we cannot appreciate anything that attempts the least bit of
+realism. However, I absolutely loved Blackhat for the same reason I
+loved Miami Vice. Michael Mann made an adult movie largely based upon
+fact that requires minimal amounts of escapism while requiring the
+viewer to use their intellect and actually think during the movie. For
+his efforts, I applaud him. 
+
+Lastly, this movie should serve as a warning to all those who are
+unaware of the rampant security issues that the US (the whole world
+actually) faces in this day and age. From a security analyst's
+perspective, the realism was welcome cautionary tale that needs to
+continued to be told until the general public gets it.
+<|_=00=_|>
+Blackhat is the latest from maverick director Michael Mann...it also
+happens to be his worst film ever. Yes, I am even factoring in The
+Keep. It is THAT bad. Starring Chris Hemsworth and Viola Davis, this
+film is a misfire and criminally misuses a talented cast and a talented
+crew. Nick is a furloughed convict trying to nail a destructive hacker
+who is damaging the financial stabilities of countries all around the
+world. Now, on the list of people better suited for this role, Chris
+Hemsworth shouldn't even be on this list. Watching him as a hacker is
+as painful as watching Adam Sandler in drag seduce Al Pacino. Working
+off a screenplay from Morgan Davis Foehl, Mann seems to focus more on
+having the shakiest hand-held cinematography not in a Paranormal
+Activity film than actually telling a coherent story with good
+characters. And for those of you who were expecting Michael Mann to
+deliver a film like Heat or The Insider, you will walk away from this
+thoroughly disappointed. The action is short, rare and very tame while
+the scenes that are attempting to explain what the hell is going on are
+so convoluted, long and boring that it creates a very uneven film that
+borders unwatchable. One of the biggest gripes I have with this film is
+the cinematography. It is entirely too shaky for a film like this and,
+on a serious note, reminded me more of End of Watch. While that style
+fit End of Watch perfectly, it doesn't fit this film. It doesn't make
+it look gritty, it just makes it look painfully under-produced and
+underfunded. Overall, Mann's Blackhat serves as one of the biggest
+disappointments in recent memory considering the fact this is Michael
+Mann we're talking about here...the guy who did Heat, Thief and
+Collateral. Unfortunately, if this is the best Mann has to offer, I
+fear it is only going to get worse as time goes on. Blackhat is
+underdeveloped, unrealistic, and filmed terribly. Watcher beware!!!
+<|_=00=_|>
+I think that about sums this film up.
+
+Some hacker who most will recognise as the god of thunder is released
+from prison by his bestie, to help track down some faceless
+cyber-criminal. An hour and a half in, we're still none the wiser as to
+what's going on, but do know that the released hacker is free to run
+around the globe as he pretty much spearheads the investigation...
+which, sadly, is even less entertaining than watching YouTube videos on
+how to write HTML.
+
+His best mate from university also just so happens to have a semi-hot
+sister with dodgy English tagging along, and while it's understandable
+that, having been banged up for some time, our hacker is very likely to
+jump on the first thing in a skirt, her interest in him seems like a
+bizarre Chinese experiment on how to have a relationship in which there
+is zero chemistry.
+
+There's some US Marshall assigned to keep the hacker in line, but that
+doesn't include stopping him from going around cutting open people's
+faces with broken bottles in restaurants, or interfering with crime
+scenes when their main suspect has been removed from the equation under
+suspicious circumstances.
+
+Our hacker is also 10x smarter than the entire Hong Kong police force,
+a krav magra expert, quite nifty with a firearm and the all-round hero,
+being the first to go into a reactor after some kind of meltdown. Given
+his skillset, he could have just hacked into MI6, gotten a fancy watch
+and car full of gadgets and lived out the rest of his days as 007.
+
+Seriously, the film is god-awful and for a huge fan of action films
+like myself to want to press the stop button in the middle of the first
+real fire-fight, something has to be very wrong.
+
+As it happens, I couldn't endure much longer after that and came here
+to write this instead, because telling others how I turned this tedious
+dross off seemed like a much better way to spend my time than sitting
+through the rest of the film to see what happens in the end... which is
+something I really couldn't care about.
+<|_=00=_|>
+1. REALLY FLAT CHARACTERS
+
+Even tho the movie is rather long, it invests almost no time into
+character development. 
+
+1.1 Chris Hemsworth is left with a role that is neither likable, nor
+interesting, and I have never heard one line of good dialogue from him
+throughout the whole thing (same for every character here). He's
+supposed to be a genius hacker, but if we wouldn't be told that all the
+time, nobody would recognize him as either a genius or a hacker. He's
+just an attractive dude who knows a thing or 2 about codes. SPOILER:
+Also, in the end, he solves all his problems just by primitive physical
+force. Wow. what a hacker. 
+
+1.2 The Chick and the love affair... it doesn't get more flat than
+that. It really doesn't. She is also supposed to be a great IT
+specialist or something like that. But we barely see any of those
+skills either. 
+
+1.3 The Bad Guy, well... I hoped for the entire movie that he would
+make the difference when he appears. But he didn't. He was just a one
+dimensional greedy cliché. 
+
+1.4 The supporting characters are no better. Like that black government
+lady. Saying "I lost someone on 9/11" shortly before she dies is an
+absolutely desperate attempt to give her character (that was
+emotionally completely meaningless before) some depth and make her
+death more tragic. Another Michael Mann movie, where this technique
+worked really well was "Heat". In "Blackhat it just didn't work one
+bit.
+
+2.SOOOO MUCH BUILDUP FOR THE MOST UNSPECTACULAR "TWIST" EVER.
+
+In the first half, the movie raises a few questions and sets up some
+mysteries. I actually liked that, but only because I wanted to see the
+puzzles solved creatively and unexpectedly. SPOILER AGAIN!... turns out
+the bad guy hacked a nuclear power plant (!) and the stock market (!!!)
+TO PRACTICE (?????) for some rusty engines somewhere in Malaysia. I'm
+not gonna lie, I bursted out laughing in the theatre at that point, and
+a few other people were even joining me.
+
+3. I'M NOT AN IT-SPECIALIST, BUT I HEARD THE HACKING SHOWN IN THE MOVIE
+IS RATHER LEGIT.
+
+...ok but who cares? That would have been the icing on the cake if the
+movie itself was good, yes. But that fact alone doesn't make it a good
+movie or anything.
+
+So that's it. I'm really confused about the many positive feedbacks
+here. I can not imagine how anyone could give this movie more than 3
+stars. I can't even give it 2...
+
+Absolute waste of time and a talented director and cast...
+<|_=00=_|>
+If you like taut, slow-burn suspense thrillers like Alfred Hitchcock's
+films and 'The Drop' in 2014 with James Gandolfini (which I thought was
+excellent), then please *go see this movie* in the theater; I think you
+will like it. (If the negative reviewers here thought they were getting
+a superhero movie like 'The Avengers', then they weren't paying
+attention to the previews :-) .) Blackhat features a computer hacker
+(Chris Hemsworth) who is furloughed from prison to counter-attack an
+elite cybercrime team. The cybercrime technology in the movie includes
+current techniques such as RATs (Remote Access Trojans) and keypad
+trackers. Following the movie plot is important -- the script is sparse
+(my only real objection); so it's important to track the plot
+developments. Michael Mann's camera-work is impressive during chase
+scenes, and his animations of cybercrime technology processes are
+inventive. I plan to see it a second time in the theater with other
+friends.
+<|_=00=_|>
+Suffers from inconsistencies, both technical and story wise. They
+change the shooting styles, cameras, fps, warmth/cold - for no apparent
+reasons at all. Feels like it's not clear what this movie "wants to
+be". The main character is supposed to be a "super-hacker" but doesn't
+do anything "super hack-y", just wanders around, shooting people, and
+nails the female protagonist. Doesn't have many hacking-scenes for a
+"hackers movie", has tons of boring gun-scenes instead, from some
+reason. The motivation of the villain was, not interesting. References
+many other "movie-cliches" (not in a good way). Severely lacks humor.
+The few jokes in it are really cheesy (yeah, it's not a comedy , but
+comic reliefs are important). Many of the audience members left the
+theater in the middle or before the end.
+
+Video review: https://www.facebook.com/video.php?v=842110769178326
+<|_=00=_|>
+If I had to pay to see this movie when I saw it, I'd be so mad, but I
+didn't, so I was disappointed for free. Chris Hemsworth and Voila Davis
+are so much MORE than the crappy roles they were given for this film.
+The storyline was all over the place; there are too many side stories
+to keep up with. The overall concept of the film is fun and
+interesting, but its execution is very poor. There's light at the end
+of the tunnel during a few scenes, and the attention of the audience is
+kept somehow by a very thin thread. In the end, it's pure curiosity
+that'll keep you from walking out on the movie altogether. In the hands
+of a different writer and director, this film would've been great. I
+suggest waiting for it to be available on Redbox instead of seeing it
+in the theater.
+<|_=00=_|>
+I was so excited when I first heard about this movie! It just has a lot
+of potential, especially regarding the online events from the past
+years. But watching the first half of this movie felt like Hollywood
+was flipping me off. It keeps becoming harder for me to sit through the
+Hollywood movies due to the lack of depth and the logical mistakes that
+they keep making:
+
+1) A nuclear reactor does not get hacked over the wire. Why would a
+country be stupid enough to give the main computers in a nuclear
+reactor access to the internet? So that the employees can play online
+poker? The real hack was done by writing highly specific software and
+spreading it on to as much USB sticks as possible. One of them was used
+by an employee and voìla.
+
+2) Three main characters that have one-liner back stories? Also the
+dialog feels rushed and often very corny.
+
+3) First it's all "a marshal will be by your side in every point in
+time" and not much later he seems to have all the freedom in the world
+(regarding computer access). The marshal even hands him his phone! And
+that to a guy that can open up a terminal, hack a bank, and wire 900
+dollars to all of his inmates..
+
+4) In the Chinese restaurant Nick tracks down the IP address of the guy
+they were supposed to meet, which had 265 in it. Basic networking 101:
+an IPv4 address has four digits, separated by dots, ranging from 0-255.
+For a movie about with a 70 million dollar budget, I'd expect they'd do
+some fact checking.
+
+Apparently the real challenge is making believable movies about IT
+related things (they nailed it in the movie Her).. Guess I'm back to
+watching documentaries again.
+<|_=00=_|>
+After a Chinese Nuclear plant is hacked, FBI agent Carol Barrett (Viola
+Davis) insists the FBI work with the Chinese government to track the
+hacker down. She is finally convinced that this needs the help of super
+hacker Nick Hathaway (Chris Hemsworth) who is serving a 15-year prison
+sentence. 
+
+I think most movies have an obligation to get the audience engaged,
+especially in the beginning. The beginning of this movie tried to
+dazzle us with computer hacking showing us what happens inside a
+computer with the CGI going wild, but it went on for too long and we
+started thinking of other things we needed to do like reorganizing our
+sock drawer. This was the first step in losing the audience.
+
+The rest of movie slowly comes around trying to locate the hacker with
+huge amounts of Geek Teckno-babble losing us once again. Then with
+Nick's help we come to realize that this hack was not political, but
+something else. Yes, this is the "Twist" we come to believe is in every
+movie. And it is here the movie begins to make sense as more hacks come
+about disrupting economies throughout the world. Ah, so it's all about
+the money. Ah, we thought so. Once that is realized, the movie settles
+down to something we can finally understand: good guys vs the bad guys. 
+
+However, it is still slow-going as players stand around waiting for
+their lines. Add to this too many sub-titles that were too long to read
+before the scene changed and we lost the last 6-words or so. What were
+they thinking? Don't they know I never took that speed-reading course?
+Hey, I meant to. 
+
+A U.S. Marshall was supposed to stick with Nick everywhere he went, but
+we see him go to a restaurant to meet one of the hackers and no
+Marshall is in sight. Did the Continuity Girl (yeah, it's usually a
+girl) not read the script and mess up? Of course, there is a big fight
+here and, of course, Nick prevails, of course. Actually, this was a
+very good (read brutal) fight scene. Ouch. Ouch. Ouch. Probably the
+best part of the movie. Hey, who needs THOR? 
+
+This is tedious, but watchable because we keep hoping this will get
+better and it does in the last 15-minutes. The love interest between
+Nick and Chen (Tang Wei) is forced, but so were a lot of things in
+here. So what else is new? Most scenes were so short no player had any
+time to show off any acting talent. Long shots of player grimaces don't
+count. Now, about that sock drawer. (4/10)
+
+Violence: Yes. Sex: No, we only see a make-out session. Nudity: No.
+Language: yes, some not much.
+<|_=00=_|>
+I must say when I watched the trailer for this movie I was skeptical,
+there are only a few hacker- movies that are enjoyable to watch.
+
+Sometimes I am wrong and the movie turns out to be better then I
+expected but not in this case. I actually got quite annoyed watching
+this. The computer action looked authentic by using existing OS-es and
+interfaces but they still made huge mistakes. IP's with numbers higher
+than 255 is just plain stupid and accessing a top-secret NSA program
+with some simple social engineering looked convincing on screen but I
+doubt the NSA allows simple user/pass access to such tooling. I could
+go on and on...
+
+I did like the idea of the plot, too bad the execution was so terrible.
+Probably the only thing I really liked where the two big shootout
+scenes, you saw a bit of Heat's director Mann there:)
+
+Unsynced audio and weird changes in volume where also very annoying,
+something you don't expect from a $70mil movie.
+
+I'm giving this a +1 because it tried to be authentic so a 4 bumps up
+to a 5/10 rating.
