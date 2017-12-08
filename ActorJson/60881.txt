@@ -1,0 +1,1 @@
+{"name": "Douglas M. Griffin", "gender": 2, "popularity": 1.113458, "imdb_id": "nm0341174", "birthday": "1966-11-17", "also_known_as": ["Douglas Griffin ", "Doug M. Griffin"], "place_of_birth": " New Orleans, Louisiana, USA", "deathday": null, "profile_path": "/5QTBIsyxZRo21uYGtpGBxvkz6cB.jpg", "homepage": null, "id": 60881, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Glenn Plummer", "gender": 2, "popularity": 0.523947, "imdb_id": "nm0687625", "birthday": "1961-08-18", "also_known_as": ["Glen Plummer", "Glenn Earl Plummer", "Glenn E. Plummer"], "place_of_birth": "Richmond, California, USA", "deathday": null, "profile_path": "/esZnjqw2WRA7zaX8SbJKGMp1xBg.jpg", "homepage": null, "id": 2683, "biography": "", "adult": false}

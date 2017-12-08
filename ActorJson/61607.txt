@@ -1,0 +1,1 @@
+{"name": "Adam LeFevre", "gender": 2, "popularity": 1.174781, "imdb_id": "nm0480775", "birthday": "1950-08-11", "also_known_as": [], "place_of_birth": "Albany - New York - USA", "deathday": null, "profile_path": "/y17YQ7F99kpqJuCUYfOoeArAkKz.jpg", "homepage": null, "id": 61607, "biography": "Adam LeFevre is an actor.", "adult": false}

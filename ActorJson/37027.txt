@@ -1,0 +1,1 @@
+{"name": "Lew Temple", "gender": 2, "popularity": 0.370948, "imdb_id": "nm0854702", "birthday": "1967-10-02", "also_known_as": [], "place_of_birth": "U.S.A", "deathday": null, "profile_path": "/fWNU0dqnKCdPGhBBRxI5k6mbEr3.jpg", "homepage": null, "id": 37027, "biography": "", "adult": false}

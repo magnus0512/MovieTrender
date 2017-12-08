@@ -1,0 +1,1 @@
+{"name": "Mickie McGowan", "gender": 0, "popularity": 0.000239, "imdb_id": "nm0569680", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/k7TjJBfINsg8vLQxJwos6XObAD6.jpg", "id": 84493, "biography": "", "adult": false}

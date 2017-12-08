@@ -1,0 +1,1 @@
+{"name": "Tim Griffin", "gender": 2, "popularity": 1.588226, "imdb_id": "nm0341377", "birthday": null, "also_known_as": [], "place_of_birth": "Chicago, Illinois, USA", "deathday": null, "profile_path": "/hwGjdnFT8MAowE4oYsIGQovqUsD.jpg", "homepage": "http://timgriffin.org/timgriffin.org/TIMGRIFFIN.ORG.html", "id": 27031, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Joe Pingue", "gender": 2, "popularity": 0.221586, "imdb_id": "nm0684187", "birthday": "1976", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/if9jRWeC6olBqiAOmT6Fb0cOSpe.jpg", "homepage": null, "id": 86237, "biography": "", "adult": false}

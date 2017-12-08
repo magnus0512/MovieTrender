@@ -1,0 +1,1 @@
+{"name": "Peter Gerety", "gender": 2, "popularity": 1.010092, "imdb_id": "nm0314253", "birthday": "1940-05-17", "also_known_as": [], "place_of_birth": "Providence, Rhode Island, USA", "deathday": null, "profile_path": "/4P7v9Tx7pNkfLGhwDwsP8oBytbt.jpg", "homepage": null, "id": 1986, "biography": "Peter Gerety is an American stage and screen actor.", "adult": false}

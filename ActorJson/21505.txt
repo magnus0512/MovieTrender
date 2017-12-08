@@ -1,0 +1,1 @@
+{"name": "Robert Wisdom", "gender": 2, "popularity": 0.221224, "imdb_id": "nm0936298", "birthday": "1953-09-14", "also_known_as": ["Bob Wisdom", "Robert Ray Wisdom"], "place_of_birth": " Washington, District of Columbia, USA", "deathday": null, "profile_path": "/zAoS4BCgTOJHA88wD7lmjlXOfnP.jpg", "homepage": null, "id": 21505, "biography": "", "adult": false}

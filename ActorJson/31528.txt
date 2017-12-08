@@ -1,0 +1,1 @@
+{"name": "Wayne P\u00e9re", "gender": 0, "popularity": 6.6e-05, "imdb_id": "nm0701818", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/5RzLxDMVPWjWLZeGXgjd5RbHJ0Y.jpg", "id": 31528, "biography": "", "adult": false}

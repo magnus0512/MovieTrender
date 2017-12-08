@@ -1,0 +1,1 @@
+{"name": "Lennie Loftin", "gender": 2, "popularity": 0.667608, "imdb_id": "nm0517448", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/oqB0hQo98TCzNUe1m2uNQSscsJL.jpg", "homepage": null, "id": 42200, "biography": "Lennie Loftin is an actor.", "adult": false}

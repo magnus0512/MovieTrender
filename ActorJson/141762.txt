@@ -1,0 +1,1 @@
+{"name": "Joe Chrest", "gender": 2, "popularity": 1.552549, "imdb_id": "nm0159609", "also_known_as": [], "place_of_birth": "St. Albans, West Virginia, USA", "deathday": null, "profile_path": "/fVaVq1UetdXuWyCHeiLsi0704Qg.jpg", "homepage": null, "id": 141762, "biography": "", "adult": false}

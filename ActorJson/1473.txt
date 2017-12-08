@@ -1,0 +1,1 @@
+{"name": "Daniel von Bargen", "gender": 2, "popularity": 0.717878, "imdb_id": "nm0901926", "birthday": "1950-06-05", "also_known_as": ["Dan von Bargen", "Daniel Van Bargen"], "place_of_birth": "Cincinnati, Ohio, USA", "deathday": "2015-03-01", "profile_path": "/fFiiZCvBCqQ4xmCzYpMJQ7xboP3.jpg", "homepage": null, "id": 1473, "biography": "", "adult": false}

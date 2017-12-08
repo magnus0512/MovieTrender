@@ -1,0 +1,1 @@
+{"name": "Corey Johnson", "gender": 2, "popularity": 1.058396, "imdb_id": "nm0424819", "birthday": "1961-05-17", "also_known_as": ["\u041a\u043e\u0440\u0438 \u0414\u0436\u043e\u043d\u0441\u043e\u043d"], "deathday": null, "profile_path": "/8jS7kzs01qMOHIltiDI2TQckmgs.jpg", "homepage": null, "id": 17199, "biography": "", "adult": false}

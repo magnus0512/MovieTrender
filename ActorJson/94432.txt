@@ -1,0 +1,1 @@
+{"name": "Adrian Martinez", "gender": 2, "popularity": 0.611842, "imdb_id": "nm0553440", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/zDnnzak4BLb5dNc9taqLNprkRvw.jpg", "homepage": null, "id": 94432, "biography": "", "adult": false}

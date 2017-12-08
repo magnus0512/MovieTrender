@@ -1,0 +1,1 @@
+{"name": "Marcus Lyle Brown", "gender": 2, "popularity": 0.010246, "imdb_id": "nm0114177", "birthday": "1970-12-26", "also_known_as": ["Marcus L. Brown", "Marcus Brown"], "deathday": null, "profile_path": "/gTD4oCMELMEXZ7wzoPqL01iNRGH.jpg", "homepage": null, "id": 16460, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Holmes Osborne", "gender": 2, "popularity": 0.001844, "imdb_id": "nm0651660", "birthday": "1947-11-07", "also_known_as": [], "profile_path": "/gMeHJT6u5VRO8RnAgPuBYrB7Krn.jpg", "id": 1578, "biography": "", "adult": false}

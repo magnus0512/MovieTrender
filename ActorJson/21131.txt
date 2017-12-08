@@ -1,0 +1,1 @@
+{"name": "Joe Lo Truglio", "gender": 2, "popularity": 0.213332, "imdb_id": "nm0516266", "birthday": "1970-12-02", "also_known_as": [], "deathday": null, "profile_path": "/uffxrZs4FieVu7pxneSzSxFAwXe.jpg", "homepage": null, "id": 21131, "biography": "", "adult": false}

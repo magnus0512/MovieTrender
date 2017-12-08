@@ -1,0 +1,1 @@
+{"name": "Deep Roy", "gender": 2, "popularity": 1.060056, "imdb_id": "nm0746989", "birthday": "1957-12-01", "also_known_as": ["Mohinder Purba"], "place_of_birth": "Nairobi, Kenya", "deathday": null, "profile_path": "/rCg84FP1x5tOutHKRB4OKhQeR4N.jpg", "homepage": null, "id": 1295, "biography": "", "adult": false}

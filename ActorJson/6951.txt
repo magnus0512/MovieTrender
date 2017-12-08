@@ -1,0 +1,1 @@
+{"name": "W. Earl Brown", "gender": 2, "popularity": 1.148293, "imdb_id": "nm0114868", "birthday": "1963-09-07", "also_known_as": ["William Earl Brown"], "place_of_birth": "Murray, Kentucky, USA", "deathday": null, "profile_path": "/ygTJtQVn9R2NgE1YPybsgk33jBm.jpg", "homepage": null, "id": 6951, "biography": "", "adult": false}

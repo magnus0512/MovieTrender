@@ -1,0 +1,1 @@
+{"name": "Patrick Malahide", "gender": 2, "popularity": 1.547754, "imdb_id": "nm0538869", "birthday": "1945-03-24", "also_known_as": ["P.G. Duggan", "Patrick Gerald Duggan"], "place_of_birth": "Berkshire, England, UK", "deathday": null, "profile_path": "/pv65v8oEhLo0ibCz1K23UCoKMuS.jpg", "homepage": null, "id": 8979, "biography": "", "adult": false}

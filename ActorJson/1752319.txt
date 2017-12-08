@@ -1,0 +1,1 @@
+{"name": "Becca Sweitzer", "gender": 1, "popularity": 0.243957, "imdb_id": "", "birthday": null, "also_known_as": [], "place_of_birth": "Saline, Michigan, USA", "deathday": null, "profile_path": "/3gLH3sTliwqictkNoxAZ0B5t8fw.jpg", "homepage": null, "id": 1752319, "biography": "", "adult": false}

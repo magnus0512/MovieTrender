@@ -1,0 +1,1 @@
+{"name": "Sven-Ole Thorsen", "gender": 2, "popularity": 0.055423, "imdb_id": "nm0861752", "birthday": "1944-09-24", "also_known_as": [], "profile_path": "/vNjv3gk22eqihzOqXm2vz5yP58V.jpg", "id": 20761, "biography": "", "adult": false}

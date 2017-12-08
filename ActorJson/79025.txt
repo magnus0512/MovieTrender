@@ -1,0 +1,1 @@
+{"name": "Don McManus", "gender": 2, "popularity": 0.023806, "imdb_id": "nm0573134", "birthday": "1959-11-08", "also_known_as": ["Don R. McManus"], "place_of_birth": "San Diego - California - USA", "deathday": null, "profile_path": "/8JOjJkZBQmhVb6n8yHw70LIgC7i.jpg", "homepage": null, "id": 79025, "biography": "Don McManus is an actor.", "adult": false}

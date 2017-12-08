@@ -1,0 +1,1 @@
+{"name": "John Kassir", "gender": 2, "popularity": 2.197689, "imdb_id": "nm0440885", "birthday": "1957-10-24", "also_known_as": [], "place_of_birth": "Baltimore, Maryland, USA", "deathday": null, "profile_path": "/d6zZiJ7t3Ve41Ny0ow4PhCyqfMw.jpg", "homepage": null, "id": 31365, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Patrick Fischler", "gender": 2, "popularity": 0.025155, "imdb_id": "nm0279209", "birthday": "1969-12-29", "also_known_as": ["Patrick Fishler"], "place_of_birth": "Los Angeles, California, USA", "deathday": null, "profile_path": "/x7btvLV8RnW5dw9Of1uYRp86E7V.jpg", "homepage": null, "id": 52801, "biography": "Patrick Fischler is an actor and producer", "adult": false}

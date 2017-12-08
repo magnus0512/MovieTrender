@@ -1,0 +1,1 @@
+{"name": "Dale Dye", "gender": 2, "popularity": 0.003322, "imdb_id": "nm0245653", "birthday": "1944-10-08", "also_known_as": [], "place_of_birth": "Cape Girardeau, Missouri, USA", "deathday": null, "profile_path": "/vQfhfRjwOHYN3Egx1SB21ResBI2.jpg", "homepage": null, "id": 3211, "biography": "", "adult": false}

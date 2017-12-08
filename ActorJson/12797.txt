@@ -1,0 +1,1 @@
+{"name": "Glenn Morshower", "gender": 2, "popularity": 1.098638, "imdb_id": "nm0607703", "birthday": "1959-04-24", "also_known_as": [], "place_of_birth": "Dallas - Texas - USA", "deathday": null, "profile_path": "/ighVr61WoYsMVGvKeRXvubI0AkF.jpg", "homepage": null, "id": 12797, "biography": "Glenn Morshower is an actor and producer.", "adult": false}

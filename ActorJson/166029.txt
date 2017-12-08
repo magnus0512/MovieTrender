@@ -1,0 +1,1 @@
+{"name": "Dan Patrick", "gender": 2, "popularity": 0.003891, "imdb_id": "", "birthday": "1956-05-15", "also_known_as": [], "place_of_birth": "Zanesville, Ohio, USA", "deathday": null, "profile_path": "/9tgxUP2r24g3NoXXMJoQEb8HAVM.jpg", "homepage": null, "id": 166029, "biography": "", "adult": false}

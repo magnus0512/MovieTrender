@@ -1,0 +1,1 @@
+{"name": "Christopher Berry", "gender": 2, "popularity": 1.049286, "imdb_id": "nm0077512", "birthday": null, "also_known_as": ["Chris Berry "], "deathday": null, "profile_path": "/fIq5d1S0xLBapW7EZKKknTdgPA7.jpg", "homepage": null, "id": 1173099, "biography": "Christopher Berry is an actor.", "adult": false}

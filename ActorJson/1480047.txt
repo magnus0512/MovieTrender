@@ -1,0 +1,1 @@
+{"name": "Pat Kiernan", "gender": 2, "popularity": 0.711568, "imdb_id": "nm0452592", "birthday": null, "also_known_as": [], "deathday": null, "profile_path": "/vgUYqODOvMlsM7lgyeNDCGboH4v.jpg", "homepage": null, "id": 1480047, "biography": "", "adult": false}

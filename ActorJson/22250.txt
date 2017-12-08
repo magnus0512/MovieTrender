@@ -1,0 +1,1 @@
+{"name": "Rance Howard", "gender": 2, "popularity": 0.211502, "imdb_id": "nm0397555", "birthday": "1928-11-17", "also_known_as": [], "profile_path": "/i7tkpb7GLJXjwUNyrpOy63FiStt.jpg", "id": 22250, "biography": "", "adult": false}

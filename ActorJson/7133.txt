@@ -1,0 +1,1 @@
+{"name": "Max Casella", "gender": 2, "popularity": 1.445224, "imdb_id": "nm0143295", "birthday": "1967-06-06", "also_known_as": ["Max Deitch"], "place_of_birth": "Washington, District of Columbia, USA", "deathday": null, "profile_path": "/5CNTDSCBhWPclTLTyTBy8oHUkzb.jpg", "homepage": null, "id": 7133, "biography": "", "adult": false}

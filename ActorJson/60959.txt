@@ -1,0 +1,1 @@
+{"name": "Jackie Sandler", "gender": 1, "popularity": 0.234626, "imdb_id": "nm0864490", "birthday": "1974-09-24", "also_known_as": ["Jacqueline Titone", "Jackie Titone", "Jacqueline Sandler"], "place_of_birth": "Coral Springs, Florida, U.S.", "deathday": null, "profile_path": "/q8cRcRf03twtqq9uHtmDiJLZhbX.jpg", "homepage": null, "id": 60959, "biography": "", "adult": false}

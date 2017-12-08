@@ -1,0 +1,1 @@
+{"name": "Troy Evans", "gender": 2, "popularity": 0.72851, "imdb_id": "nm0263283", "birthday": "1948-02-16", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/74r7ajwva1F0yd6moWljQFfqnnR.jpg", "id": 31006, "biography": "", "adult": false}

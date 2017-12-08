@@ -1,0 +1,1 @@
+{"name": "Gerry Becker", "gender": 2, "popularity": 0.154769, "imdb_id": "nm0065418", "birthday": "1951-04-11", "also_known_as": [], "deathday": null, "profile_path": "/4oXmbOtBU18w0eB5Jaj7OACvEpG.jpg", "homepage": null, "id": 19468, "biography": "", "adult": false}

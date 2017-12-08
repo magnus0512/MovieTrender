@@ -1,0 +1,1 @@
+{"name": "Bill Cobbs", "gender": 2, "popularity": 2.114468, "imdb_id": "nm0167850", "birthday": "1934-06-16", "also_known_as": [], "place_of_birth": "Cleveland, Ohio, USA", "deathday": null, "profile_path": "/cP2ETKFdk93z4e1oXZVG0utI3IM.jpg", "homepage": null, "id": 8854, "biography": "", "adult": false}

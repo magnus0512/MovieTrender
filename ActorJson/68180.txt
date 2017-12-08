@@ -1,0 +1,1 @@
+{"name": "Gary Grubbs", "gender": 2, "popularity": 0.375976, "imdb_id": "nm0344196", "birthday": "1949-11-14", "also_known_as": [], "place_of_birth": "Amory - Mississippi - USA", "deathday": null, "profile_path": "/zbSSBFW8oRl4M1u2vyr1PUnWqCw.jpg", "homepage": null, "id": 68180, "biography": "", "adult": false}

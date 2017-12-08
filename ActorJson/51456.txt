@@ -1,0 +1,1 @@
+{"name": "Rhoda Griffis", "gender": 1, "popularity": 0.244381, "imdb_id": "nm0341421", "birthday": "1965-01-09", "also_known_as": [], "place_of_birth": "Raleigh, North Carolina, USA", "deathday": null, "profile_path": "/f4jlWaOllPPQXzNnNDapJ5mlLjI.jpg", "homepage": null, "id": 51456, "biography": "", "adult": false}

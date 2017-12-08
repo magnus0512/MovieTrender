@@ -1,0 +1,1 @@
+{"name": "Pruitt Taylor Vince", "gender": 2, "popularity": 1.450443, "imdb_id": "nm0898546", "birthday": "1960-07-05", "also_known_as": [], "place_of_birth": "Baton Rouge, Louisiana, USA", "deathday": null, "profile_path": "/p3xmcGJ7IKCxw42lwQbg4WmwPTA.jpg", "homepage": null, "id": 3201, "biography": "Pruitt Taylor Vince is an American actor.", "adult": false}

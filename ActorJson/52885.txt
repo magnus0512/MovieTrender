@@ -1,0 +1,1 @@
+{"name": "Ritchie Montgomery", "gender": 2, "popularity": 0.002902, "imdb_id": "nm0599907", "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/znNRxqrYkOskK3jlm3ftHyAzJDg.jpg", "id": 52885, "biography": "", "adult": false}

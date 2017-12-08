@@ -1,0 +1,1 @@
+{"name": "Sung Kang", "gender": 2, "popularity": 1.643154, "imdb_id": "nm0437646", "birthday": "1972-04-08", "also_known_as": ["Kang Sung-Ho"], "place_of_birth": "Gainesville, Georgia, USA", "deathday": null, "profile_path": "/fqt53KEfHWsRDcbV2YAY2lKlKrM.jpg", "homepage": null, "id": 61697, "biography": "", "adult": false}

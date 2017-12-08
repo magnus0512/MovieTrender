@@ -1,0 +1,1 @@
+{"name": "June Squibb", "gender": 1, "popularity": 1.111281, "imdb_id": "nm0820053", "birthday": "1929-11-06", "also_known_as": [], "place_of_birth": "Vandalia - Illinois - USA", "deathday": null, "profile_path": "/2QDE0wZ9B9a4Kd2S4e9XP65agrf.jpg", "homepage": null, "id": 35515, "biography": "June Squibb is an actress.", "adult": false}

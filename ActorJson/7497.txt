@@ -1,0 +1,1 @@
+{"name": "Holt McCallany", "gender": 2, "popularity": 0.719349, "imdb_id": "nm0564697", "birthday": "1964-09-03", "also_known_as": ["Holt Mccallany ", "Holt McAloney"], "place_of_birth": "New York City - New York - USA", "deathday": null, "profile_path": "/wUmLIjjwBH0sJio5ExafBqF0NRR.jpg", "homepage": "http://holtmccallany.net/", "id": 7497, "biography": "", "adult": false}

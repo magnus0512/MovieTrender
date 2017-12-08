@@ -1,0 +1,1 @@
+{"name": "R. D. Call", "gender": 2, "popularity": 0.534616, "imdb_id": "nm0130107", "birthday": null, "also_known_as": ["RD Call", "R.D. Call"], "place_of_birth": "Ogden - Utah - USA", "deathday": null, "profile_path": "/txa2FUem2tQGPH5HQR6WceIX9B7.jpg", "homepage": null, "id": 49832, "biography": "", "adult": false}

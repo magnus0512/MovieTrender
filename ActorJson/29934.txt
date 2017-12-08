@@ -1,0 +1,1 @@
+{"name": "Brett Rice", "gender": 2, "popularity": 0.000386, "imdb_id": "nm0723365", "birthday": null, "also_known_as": [], "place_of_birth": null, "deathday": null, "profile_path": "/1gWgDmlT9WCIPTDzkYQSs1NIt7F.jpg", "homepage": null, "id": 29934, "biography": "", "adult": false}

@@ -1,0 +1,1 @@
+{"name": "Richard Cetrone", "gender": 2, "popularity": 4.8e-05, "imdb_id": "nm0149150", "birthday": null, "also_known_as": ["Rich Cetrone", "Rick Cetrone", "Richard Cietrone"], "deathday": null, "profile_path": "/63LiC0atGVnNUUaEu86tce2il8Z.jpg", "homepage": null, "id": 12371, "biography": "", "adult": false}

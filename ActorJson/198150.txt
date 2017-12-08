@@ -1,0 +1,1 @@
+{"name": "Ike Barinholtz", "gender": 2, "popularity": 1.054206, "imdb_id": "nm0054697", "birthday": "1977-02-18", "also_known_as": [], "place_of_birth": "Chicago - Illinois - USA", "deathday": null, "profile_path": "/aMkElR018PyLdgiXbyIjXbFfbSZ.jpg", "homepage": null, "id": 198150, "biography": "", "adult": false}

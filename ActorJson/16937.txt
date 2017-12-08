@@ -1,0 +1,1 @@
+{"name": "Rex Linn", "gender": 2, "popularity": 0.179736, "imdb_id": "nm0513010", "birthday": "1956-11-13", "also_known_as": ["Rex Maynard Linn", "Rex M. Linn", "Rex Lynn"], "place_of_birth": "Spearman, Texas, USA", "deathday": null, "profile_path": "/2ze2PNirf4vle9sWRkSxHgv1iH0.jpg", "homepage": null, "id": 16937, "biography": "", "adult": false}

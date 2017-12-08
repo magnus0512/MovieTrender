@@ -1,0 +1,1 @@
+{"name": "Edie McClurg", "gender": 1, "popularity": 1.660855, "imdb_id": "nm0566052", "birthday": "1951-07-23", "also_known_as": [], "place_of_birth": "Kansas City - Missouri - USA", "deathday": null, "profile_path": "/l8iHE1qnlCUlOs1Oq0LzGWO8T1D.jpg", "homepage": null, "id": 3202, "biography": "", "adult": false}

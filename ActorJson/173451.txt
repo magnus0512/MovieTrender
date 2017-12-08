@@ -1,0 +1,1 @@
+{"name": "Jed Brophy", "gender": 0, "popularity": 0.201678, "imdb_id": "nm0112400", "birthday": "1963", "also_known_as": [], "deathday": null, "profile_path": "/fwW8QetiTgvGH9Dxj8sDtQUr2hB.jpg", "homepage": null, "id": 173451, "biography": "", "adult": false}

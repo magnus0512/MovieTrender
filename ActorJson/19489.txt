@@ -1,0 +1,1 @@
+{"name": "Peter McRobbie", "gender": 2, "popularity": 0.257564, "imdb_id": "nm0574513", "birthday": "1943-01-31", "also_known_as": [], "place_of_birth": "Hawick, Borders, Scotland, UK", "deathday": null, "profile_path": "/ynPUzInVl3ZyQyU8DICUeecpDuR.jpg", "homepage": null, "id": 19489, "biography": "Peter McRobbie is an actor.", "adult": false}

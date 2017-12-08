@@ -1,0 +1,1 @@
+{"name": "Eddie Marsan", "gender": 2, "popularity": 1.883747, "imdb_id": "nm0550371", "birthday": "1968-06-23", "also_known_as": [], "place_of_birth": "Stepney, East London, England", "deathday": null, "profile_path": "/zcJ2W9BuiBPohtOkPFcYuFfCzji.jpg", "homepage": null, "id": 1665, "biography": "Edward Maurice C. \"Eddie\" Marsan(born 1968) is an English actor.", "adult": false}

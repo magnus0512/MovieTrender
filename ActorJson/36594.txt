@@ -1,0 +1,1 @@
+{"name": "Juno Temple", "gender": 1, "popularity": 2.425594, "imdb_id": "nm1017334", "birthday": "1989-07-21", "also_known_as": [], "place_of_birth": "Hammersmith, London, England, UK", "deathday": null, "profile_path": "/1aWgQNsY9GFWazUr5T3RGnEiVE0.jpg", "homepage": null, "id": 36594, "biography": "Juno Violet Temple (born 21 July 1989) is an English actress.", "adult": false}

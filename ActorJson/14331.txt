@@ -1,0 +1,1 @@
+{"name": "Nestor Serrano", "gender": 2, "popularity": 1.080007, "imdb_id": "nm0785594", "birthday": "1955-11-05", "also_known_as": [], "place_of_birth": "Bronx - New York - USA", "deathday": null, "profile_path": "/dZ44mFqSLqVqBmh4XqFRqqfa70N.jpg", "homepage": "http://nestorserrano.com/", "id": 14331, "biography": "", "adult": false}
