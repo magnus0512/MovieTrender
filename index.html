@@ -149,7 +149,7 @@
 			And if you need a director/Actor pair, these are the ones you would want.
     			<p><img src="images/Bedste skuespiller og director.PNG" title="Highest Income Actor-Director Pairs"></p>
 
-			<h2><a aria-hidden="true" class="anchor" href="#correlation" id="attricorrelation"><span aria-hidden="true" class="octicon octicon-link"></span></a>Attribute Correlation</h2>
+			<h2><a aria-hidden="true" class="anchor" href="#correlation" id="correlation"><span aria-hidden="true" class="octicon octicon-link"></span></a>Attribute Correlation</h2>
 			The overall goal of the project is to find trends within the movie-business.
 			Therefore we are very interested in finding correlations between differn't movie attributes which a part of our dataset.
 			We exctracted all the related data from our dataset and made a correlation matrix.
@@ -163,7 +163,7 @@
 			This however wasn't the case and instead the interval only runs from 3.62 to 4.05. One explanation could be that the user written reviews had too many typos that it started to effect the score.
 			<p><img src="images/sentiment.png" title="Sentiment Distribution"></p>
 
-			<h3><a aria-hidden="true" class="anchor" href="#pdcor" id="panda correlation"><span aria-hidden="true" class="octicon octicon-link"></span></a>Correlations</h3>	
+			<h3><a aria-hidden="true" class="anchor" href="#pdcor" id="pdcor"><span aria-hidden="true" class="octicon octicon-link"></span></a>Correlations</h3>	
 			The correlations is calculated using the Panda DataFrame. 
 			<p><img src="images/Correlation.PNG" title="Correlation Matrix"></p>
 
@@ -175,9 +175,13 @@
 			the income or budget of any movies but showed a correlation with the movie score which proves the hypothesis that people who like a movie more tends to write more sentimentality about it.
 			The user score in contrast to the sentiment showed smaller correlations with the revenue and gross income which tells us that the more people like a movie the more likely it is to make money.</p>
 
-			<h2><a aria-hidden="true" class="anchor" href="#Review-Analysis" id="text-analysis"><span aria-hidden="true" class="octicon octicon-link"></span></a>Text analysis</h2>
-			<h3><a aria-hidden="true" class="anchor" href="#word-clouds" id="WordClouds"><span aria-hidden="true" class="octicon octicon-link"></span></a>Word Clouds</h3>
-			<div class="bxslider" align="center">
+			<h2><a aria-hidden="true" class="anchor" href="#Review-Analysis" id="Review-Analysis"><span aria-hidden="true" class="octicon octicon-link"></span></a>Review analysis</h2>
+			<h3><a aria-hidden="true" class="anchor" href="#word-clouds" id="word-clouds"><span aria-hidden="true" class="octicon octicon-link"></span></a>Word Clouds</h3>
+			We are very interested in knowing more about the textual content of movie user-reviews. In particular we want to know more about trends of most common used words and whether they differ greatly between genres.
+
+			To get an idea of the most common words in used for each genre in their reviews we will utilize the WordCloud module. 
+			These WordClouds will visualize which words that characterize each genre and we can then make a general review WordCloud that encompasses all reviews to see if there are similarities.
+			    <div class="bxslider" align="center">
 			  <div><img src="images/Drama.png" title="Drama Genre"></div>
 			  <div><img src="images/Action.png" title="Actions Genre"></div>
 			  <div><img src="images/News.png" title="News Genre"></div>
@@ -203,8 +207,11 @@
 			  <div><img src="images/Biography.png" title="Biography Genre"></div>
 
 			    </div>
-			    
-			<h2><a aria-hidden="true" class="anchor" href="#Conclusion" id="conlusion"><span aria-hidden="true" class="octicon octicon-link"></span></a>Conclusion</h2>   
+			 We had hoped for the WordClouds to be more distinct in their characteriziation of their individual genres,
+			 but alot of them such as the Action genre didn't show many words one would distinctivly associate with the genre.
+			 We, however, still got some WordClouds which we would be able to label even without knowing the genre beforehand, like News, Romance, Animation, so it wasn't completly useless.  
+			
+			    <h2><a aria-hidden="true" class="anchor" href="#Conclusion" id="conlusion"><span aria-hidden="true" class="octicon octicon-link"></span></a>Conclusion</h2>   
 			 <p align="left"> Based on all our work we have come to an conclusion. If you want to make a movie which you want to make a lot of money, you should follow these tips: </p>
 			 <p align="left">The more you invest, the more you earn.</p>
 			 <p align="left">It should be an animation movie.</p>
